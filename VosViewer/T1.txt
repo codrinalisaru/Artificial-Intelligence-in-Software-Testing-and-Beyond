@@ -1,0 +1,1927 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, YC
+   Guo, SX
+   Tan, CW
+AF Wang, Yuchen
+   Guo, Shangxin
+   Tan, Chee Wei
+TI From Code Generation to Software Testing: AI Copilot With Context-Based
+   Retrieval-Augmented Generation
+SO IEEE SOFTWARE
+LA English
+DT Article
+DE Codes; Computer bugs; Retrieval augmented generation; Software testing;
+   Accuracy; Encoding; Artificial intelligence; Synchronization; Software
+   engineering; Programming; Context management; Information retrieval;
+   Data collection; Data augmentation
+AB The rapid pace of large-scale software development places increasing demands on traditional testing methodologies. We propose a novel perspective on software testing, highlighting the transformative potential of AI-driven technologies in modern software development practices.
+C1 [Wang, Yuchen] Nanyang Technol Univ, Singapore 639798, Singapore.
+   [Guo, Shangxin] City Univ Hong Kong, Hong Kong 518057, Peoples R China.
+   [Tan, Chee Wei] Nanyang Technol Univ, Comp Sci, Singapore 639798, Singapore.
+C3 Nanyang Technological University; City University of Hong Kong; Nanyang
+   Technological University
+RP Wang, YC (corresponding author), Nanyang Technol Univ, Singapore 639798, Singapore.
+EM yuchen011@e.ntu.edu.sg; sxguo2-c@my.cityu.edu.hk; cheewei.tan@ntu.edu.sg
+RI TAN, Chee Wei/A-7471-2010
+OI TAN, Chee Wei/0000-0002-6624-9752
+FU Singapore Ministry of Education Academic Research Fund [RG91/22]
+FX This research was supported by the Singapore Ministry of Education
+   Academic Research Fund under Grant RG91/22.
+NR 15
+TC 4
+Z9 4
+U1 6
+U2 6
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0740-7459
+EI 1937-4194
+J9 IEEE SOFTWARE
+JI IEEE Softw.
+PD JUL-AUG
+PY 2025
+VL 42
+IS 4
+BP 34
+EP 42
+DI 10.1109/MS.2025.3549628
+PG 9
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 3KN8C
+UT WOS:001502548100009
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT J
+AU Liu, ZJ
+   Su, T
+   Zakharov, MA
+   Wei, GL
+   Lee, S
+AF Liu, Zhijing
+   Su, Tong
+   Zakharov, Michail A.
+   Wei, Guoliang
+   Lee, Sangkeum
+TI Software defect prediction based on residual/shuffle network optimized
+   by upgraded fish migration optimization algorithm
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+DE Software defect prediction; Deep learning; Residual-shuffle network;
+   Upgraded fish migration optimization algorithm; Feature generation;
+   Defect prediction
+AB The study introduces a new method for predicting software defects based on Residual/Shuffle (RS) Networks and an enhanced version of Fish Migration Optimization (UFMO). The overall contribution is to improve the accuracy, and reduce the manual effort needed. The originality of this work rests in the synergic use of deep learning and metaheuristics to train the software code for extraction of semantic and structural properties. The model is tested on a variety of open-source projects, yielding an average accuracy of 93% and surpassing the performance of the state-of-the-art models. The results indicate an overall increase in the precision (78-98%), recall (71-98%), F-measure (72-96%), and Area Under the Curve (AUC) (78-99%). The proposed model is simple and efficient and proves to be effective in identifying potential defects, consequently decreasing the chance of missing these defects and improving the overall quality of the software as opposed to existing approaches. However, the analysis is limited to open-source projects and warrants further evaluation on proprietary software. The study enables a robust and efficient tool for developers. This approach can revolutionize software development practices in order to use artificial intelligence to solve difficult issues presented in software. The model offers high accuracy to reduce the software development cost, which can improve user satisfaction, and enhance the overall quality of software being developed.
+C1 [Liu, Zhijing] Shandong HuaYu Univ Technol, Inst Innovat & Entrepreneurship, Dezhou 253034, Shandong, Peoples R China.
+   [Su, Tong; Wei, Guoliang] Shandong Huayu Univ Technol, Admiss Off, Dezhou 253034, Shandong, Peoples R China.
+   [Zakharov, Michail A.] Bauman Moscow State Tech Univ, Moscow, Russia.
+   [Lee, Sangkeum] Hanbat Natl Univ, Dept Comp Engn, Daejeon 34158, South Korea.
+C3 Shandong Huayu University of Technology; Shandong Huayu University of
+   Technology; Bauman Moscow State Technical University; Hanbat National
+   University
+RP Liu, ZJ (corresponding author), Shandong HuaYu Univ Technol, Inst Innovat & Entrepreneurship, Dezhou 253034, Shandong, Peoples R China.; Lee, S (corresponding author), Hanbat Natl Univ, Dept Comp Engn, Daejeon 34158, South Korea.
+EM 18253487107@163.com; sangkeum@hanbat.ac.kr
+RI ; Zakharov, Mikhail/HKN-8606-2023; Wei, Guoliang/AAE-7783-2019; Liu,
+   Zhijing/LXW-9090-2024
+OI Zaharov, Mihail/0000-0002-8992-0238; 
+NR 30
+TC 2
+Z9 3
+U1 8
+U2 10
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 28
+PY 2025
+VL 15
+IS 1
+AR 7201
+DI 10.1038/s41598-025-91784-5
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA Y9M6D
+UT WOS:001435277400008
+PM 40021906
+OA Green Submitted, gold
+DA 2025-11-07
+ER
+
+PT J
+AU Alenezi, M
+   Akour, M
+AF Alenezi, Mamdouh
+   Akour, Mohammed
+TI AI-Driven Innovations in Software Engineering: A Review of Current
+   Practices and Future Directions
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE artificial intelligence (AI); software engineering; automation; software
+   development lifecycle
+AB The software engineering landscape is undergoing a significant transformation with the advent of artificial intelligence (AI). AI technologies are poised to redefine traditional software development practices, offering innovative solutions to long-standing challenges. This paper explores the integration of AI into software engineering processes, aiming to identify its impacts, benefits, and the challenges that accompany this paradigm shift. A comprehensive analysis of current AI applications in software engineering is conducted, supported by case studies and theoretical models. The study examines various phases of software development to assess where AI contributes most effectively. The integration of AI enhances productivity, improves code quality, and accelerates development cycles. Key areas of impact include automated code generation, intelligent debugging, predictive maintenance, and enhanced decision-making processes. AI is revolutionizing software engineering by introducing automation and intelligence into the development lifecycle. Embracing AI-driven tools and methodologies is essential for staying competitive in the evolving technological landscape.
+C1 [Alenezi, Mamdouh] Saudi Technol & Secur Comprehens Control Co Tahako, Riyadh 12435, Saudi Arabia.
+   [Akour, Mohammed] Prince Sultan Univ, Coll Comp & Informat Sci, Riyadh 12435, Saudi Arabia.
+C3 Prince Sultan University
+RP Akour, M (corresponding author), Prince Sultan Univ, Coll Comp & Informat Sci, Riyadh 12435, Saudi Arabia.
+EM mkalenezi@tahakom.com; makour@psu.edu.sa
+RI Alenezi, Mamdouh/R-2639-2016
+FU Prince Sultan University
+FX The authors would like to acknowledge the support of Prince Sultan
+   University for paying the Article Processing Charge (APC) of this
+   publication.
+NR 76
+TC 9
+Z9 12
+U1 20
+U2 30
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD FEB
+PY 2025
+VL 15
+IS 3
+AR 1344
+DI 10.3390/app15031344
+PG 26
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials
+   Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Materials Science; Physics
+GA W4R3S
+UT WOS:001418463400001
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Mustaqeem, M
+   Alam, M
+   Mustajab, S
+   Alshanketi, F
+   Alam, S
+   Shuaib, M
+AF Mustaqeem, Mohd
+   Alam, Mahfooz
+   Mustajab, Suhel
+   Alshanketi, Faisal
+   Alam, Shadab
+   Shuaib, Mohammed
+TI Comprehensive Bibliographic Survey and Forward-Looking Recommendations
+   for Software Defect Prediction: Datasets, Validation Methodologies,
+   Prediction Approaches, and Tools
+SO IEEE ACCESS
+LA English
+DT Article
+DE Software defect prediction; classification; artificial intelligence;
+   machine learning; statistical validation; bibliographic survey;
+   search-based techniques; Software defect prediction; classification;
+   artificial intelligence; machine learning; statistical validation;
+   bibliographic survey; search-based techniques
+ID FEATURE-SELECTION
+AB The development of reliable software depends heavily on the effective collaboration between teams responsible for development and testing. Despite ongoing efforts, many software programs still contain bugs that can lead to financial losses and business risks. Therefore, detecting and fixing software defects after release is crucial. While binary classification methods have been commonly used for this purpose, recent Artificial Intelligence (AI) advancements offer new opportunities for software teams to create more robust software. To address challenges in Software Defect Prediction (SDP), we conducted a thorough bibliographic survey of 79 research articles from the year 2011 to 2023 that examined previous models, datasets, data validation techniques, defect detection, prediction methods, and SDP tools. The survey revealed that previous research often lacked appropriate datasets with the necessary characteristics and data validation methods. Additionally, many standard datasets suffer from a lack of labels, which hinders effective defect detection. Systematic literature reviews on SDP are scarce, further emphasizing the importance of this study. Based on the findings, we provide crucial recommendations for designing effective SDP models and tools. The proposed survey outlines an architecture for constructing SDP datasets with the appropriate characteristics, as well as multi-label classification and data validation methodologies for software defects. This approach aims to enhance SDP research and contribute to the development of high-quality software products by improving defect prediction accuracy.
+C1 [Mustaqeem, Mohd; Alam, Mahfooz; Mustajab, Suhel] Aligarh Muslim Univ, Dept Comp Sci, Aligarh 202002, India.
+   [Alam, Mahfooz] GL Bajaj Coll Technol & Management, Dept MCA, Greater Noida 201306, Uttar Pradesh, India.
+   [Alshanketi, Faisal; Alam, Shadab; Shuaib, Mohammed] Jazan Univ, Coll Engn & Comp Sci, Dept Comp Sci, Jazan 45142, Saudi Arabia.
+C3 Aligarh Muslim University; Jazan University
+RP Alshanketi, F (corresponding author), Jazan Univ, Coll Engn & Comp Sci, Dept Comp Sci, Jazan 45142, Saudi Arabia.
+EM falshanketi@jazanu.edu.sa
+RI Alam, Mahfooz/GON-4294-2022; SHUAIB, MOHAMMED/LSK-3358-2024; Mustaqeem,
+   Mohd/KOC-1352-2024; Alam, Shadab/AAK-7827-2021
+OI Alshanketi, Faisal/0000-0001-5982-5937; Mustajab, Prof.
+   Suhel/0000-0002-9969-6110; SHUAIB, MOHAMMED/0000-0001-6657-2587; Alam,
+   Dr. Mahfooz/0000-0003-0668-9796; Alam, Shadab/0000-0003-0504-4515;
+   Mustaqeem, Mohd/0000-0001-5055-5969
+FU Deanship of Graduate Studies and Scientific Research, Jazan University,
+   Saudi Arabia [GSSRD-24]
+FX This work was supported by the Deanship of Graduate Studies and
+   Scientific Research, Jazan University, Saudi Arabia, under Project
+   GSSRD-24.
+NR 51
+TC 4
+Z9 4
+U1 5
+U2 11
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2025
+VL 13
+BP 866
+EP 903
+DI 10.1109/ACCESS.2024.3517419
+PG 38
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA R2A7D
+UT WOS:001389548300022
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Kokol, P
+AF Kokol, Peter
+TI The Use of AI in Software Engineering: A Synthetic Knowledge Synthesis
+   of the Recent Research Literature
+SO INFORMATION
+LA English
+DT Review
+DE software engineering; artificial intelligence; machine learning;
+   synthetic knowledge synthesis
+AB Artificial intelligence (AI) has witnessed an exponential increase in use in various applications. Recently, the academic community started to research and inject new AI-based approaches to provide solutions to traditional software-engineering problems. However, a comprehensive and holistic understanding of the current status needs to be included. To close the above gap, synthetic knowledge synthesis was used to induce the research landscape of the contemporary research literature on the use of AI in software engineering. The synthesis resulted in 15 research categories and 5 themes-namely, natural language processing in software engineering, use of artificial intelligence in the management of the software development life cycle, use of machine learning in fault/defect prediction and effort estimation, employment of deep learning in intelligent software engineering and code management, and mining software repositories to improve software quality. The most productive country was China (n = 2042), followed by the United States (n = 1193), India (n = 934), Germany (n = 445), and Canada (n = 381). A high percentage (n = 47.4%) of papers were funded, showing the strong interest in this research topic. The convergence of AI and software engineering can significantly reduce the required resources, improve the quality, enhance the user experience, and improve the well-being of software developers.
+C1 [Kokol, Peter] Univ Maribor, Fac Elect Engn & Comp Sci, Koroska Ulica 46, Maribor 2000, Slovenia.
+C3 University of Maribor
+RP Kokol, P (corresponding author), Univ Maribor, Fac Elect Engn & Comp Sci, Koroska Ulica 46, Maribor 2000, Slovenia.
+EM peter.kokol@um.si
+RI Kokol, Peter/I-1542-2019; , Peter/I-1542-2019
+OI , Peter/0000-0003-4073-6488
+NR 99
+TC 6
+Z9 9
+U1 7
+U2 17
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2078-2489
+J9 INFORMATION
+JI Information
+PD JUN
+PY 2024
+VL 15
+IS 6
+AR 354
+DI 10.3390/info15060354
+PG 14
+WC Computer Science, Information Systems
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WP7X6
+UT WOS:001256154200001
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Tosi, D
+AF Tosi, Davide
+TI Studying the Quality of Source Code Generated by Different AI Generative
+   Engines: An Empirical Evaluation
+SO FUTURE INTERNET
+LA English
+DT Article
+DE generative artificial intelligence; source code generation; software
+   quality; software metrics
+AB The advent of Generative Artificial Intelligence is opening essential questions about whether and when AI will replace human abilities in accomplishing everyday tasks. This issue is particularly true in the domain of software development, where generative AI seems to have strong skills in solving coding problems and generating software source code. In this paper, an empirical evaluation of AI-generated source code is performed: three complex coding problems (selected from the exams for the Java Programming course at the University of Insubria) are prompted to three different Large Language Model (LLM) Engines, and the generated code is evaluated in its correctness and quality by means of human-implemented test suites and quality metrics. The experimentation shows that the three evaluated LLM engines are able to solve the three exams but with the constant supervision of software experts in performing these tasks. Currently, LLM engines need human-expert support to produce running code that is of good quality.
+C1 [Tosi, Davide] Univ Insubria, Dept Theoret & Appl Sci, I-21100 Varese, Italy.
+C3 University of Insubria
+RP Tosi, D (corresponding author), Univ Insubria, Dept Theoret & Appl Sci, I-21100 Varese, Italy.
+EM davide.tosi@uninsubria.it
+RI TOSI, DAVIDE/AAI-1310-2020
+OI TOSI, DAVIDE/0000-0003-3815-2512
+FU NRRP MUR program - EU-NGEU [PE00000014]
+FX This work was supported in part by project SERICS (PE00000014) under the
+   NRRP MUR program funded by the EU-NGEU.
+NR 26
+TC 5
+Z9 8
+U1 10
+U2 39
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1999-5903
+J9 FUTURE INTERNET
+JI Future Internet
+PD JUN
+PY 2024
+VL 16
+IS 6
+AR 188
+DI 10.3390/fi16060188
+PG 19
+WC Computer Science, Information Systems
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WQ1N5
+UT WOS:001256248100001
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Amalfitano, D
+   Faralli, S
+   Hauck, JCR
+   Matalonga, S
+   Distante, D
+AF Amalfitano, Domenico
+   Faralli, Stefano
+   Hauck, Jean Carlo Rossa
+   Matalonga, Santiago
+   Distante, Damiano
+TI Artificial Intelligence Applied to Software Testing: A Tertiary Study
+SO ACM COMPUTING SURVEYS
+LA English
+DT Article
+DE Artificial intelligence; Software testing; Taxonomy; Tertiary study;
+   Systematic literature review; Systematic mapping study
+ID TEST DATA GENERATION; HYPER-HEURISTICS; TERMINOLOGY
+AB Context: Artificial intelligence (AI) methods and models have extensively been applied to support different phases of the software development lifecycle, including software testing (ST). Several secondary studies investigated the interplay between AI and ST but restricted the scope of the research to specific domains or sub-domains within either area.
+   Objective: This research aims to explore the overall contribution of AI to ST, while identifying the most popular applications and potential paths for future research directions.
+   Method: We executed a tertiary study following well-established guidelines for conducting systematic literature mappings in software engineering and for answering nine research questions. Results: We identified and analyzed 20 relevant secondary studies. The analysis was performed by drawing from well-recognized AI and ST taxonomies and mapping the selected studies according to them. The resulting mapping and discussions provide extensive and detailed information on the interplay between AI and ST.
+   Conclusion: The application of AI to support ST is a well-consolidated and growing interest research topic. The mapping resulting from our study can be used by researchers to identify opportunities for future research, and by practitioners looking for evidence-based information on which AI-supported technology to possibly adopt in their testing processes.
+C1 [Amalfitano, Domenico] Univ Naples Federico II, Via Claudio 21, Naples, Italy.
+   [Faralli, Stefano] Sapienza Univ Rome, Via Salaria 113, I-00198 Rome, Italy.
+   [Hauck, Jean Carlo Rossa] Univ Fed Santa Catarina, Campus Univ Trindade, BR-88040200 Florianopolis, SC, Brazil.
+   [Matalonga, Santiago] Univ West Scotland, High St Paisley, Paisley PA13AP, Renfrew, Scotland.
+   [Distante, Damiano] Univ Rome UnitelmaSapienza, Piazza Sassari 4, I-00161 Rome, Italy.
+C3 University of Naples Federico II; Sapienza University Rome; Universidade
+   Federal de Santa Catarina (UFSC)
+RP Amalfitano, D (corresponding author), Univ Naples Federico II, Via Claudio 21, Naples, Italy.
+EM domenico.amalfitano@unina.it; faralli@di.uniroma1.it;
+   jean.hauck@ufsc.br; santiago.matalonga@uws.ac.uk;
+   damiano.distante@unitelmasapienza.it
+RI ; Faralli, Stefano/M-7020-2018; Hauck, Jean/AAL-6790-2020; Amalfitano,
+   Domenico/HJH-4638-2023; Matalonga, Santiago/T-2292-2018; Faralli,
+   Stefano/M-6407-2019
+OI Amalfitano, Domenico/0000-0002-4761-4443; Faralli,
+   Stefano/0000-0003-3684-8815; Matalonga, Santiago/0000-0001-5429-2449; 
+NR 107
+TC 19
+Z9 21
+U1 12
+U2 43
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0360-0300
+EI 1557-7341
+J9 ACM COMPUT SURV
+JI ACM Comput. Surv.
+PD MAR
+PY 2024
+VL 56
+IS 3
+AR 58
+DI 10.1145/3616372
+PG 38
+WC Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA X4GR7
+UT WOS:001098058200005
+OA Green Submitted, hybrid
+DA 2025-11-07
+ER
+
+PT J
+AU Durrani, UK
+   Akpinar, M
+   Adak, MF
+   Kabakus, AT
+   Öztürk, MM
+   Saleh, M
+AF Durrani, Usman Khan
+   Akpinar, Mustafa
+   Adak, Muhammed Fatih
+   Kabakus, Abdullah Talha
+   Ozturk, Muhammed Maruf
+   Saleh, Mohammed
+TI A Decade of Progress: A Systematic Literature Review on the Integration
+   of AI in Software Engineering Phases and Activities (2013-2023)
+SO IEEE ACCESS
+LA English
+DT Review
+DE AI; artificial intelligence; deep learning; expert systems; integration;
+   machine learning; natural language processing; optimization algorithms;
+   planning; requirement engineering; software deployment; software
+   development; software engineering; software maintenance; software
+   testing; systematic literature review; natural language processing;
+   optimization algorithms; planning; requirement engineering; software
+   deployment; software development; software engineering; software
+   maintenance; software testing; systematic literature review
+ID DEFECT PREDICTION; TEST SUITE; USER STORIES; MODEL; COMPONENTS;
+   EFFICIENCY; SELECTION
+AB The synergy between software engineering (SE) and artificial intelligence (AI) catalyzes software development, as numerous recent studies illustrate an intensified intersection between these domains. This systematic literature review examines the integration of AI techniques or methodologies across SE phases and related activities spanning from 2013 to 2023, resulting in the selection of 110 research papers. Investigating the profound influence of AI techniques, including machine learning, deep learning, natural language processing, optimization algorithms, and expert systems, across various SE phases-such as planning, requirement engineering, design, development, testing, deployment, and maintenance-is the focal point of this study. Notably, the extensive adoption of machine learning and deep learning algorithms in the development and testing phases has enhanced software quality through defect prediction, code recommendation, and vulnerability detection initiatives. Furthermore, natural language processing's role in automating requirements classification and sentiment analysis has streamlined SE practices. Optimization algorithms have also demonstrated efficacy in refining SE activities such as feature location and software repair action predictions, augmenting precision and efficiency in maintenance endeavors. Prospective research emphasizes the imperative of interpretable AI models and the exploration of novel AI paradigms, including explainable AI and reinforcement learning, to promote ethical and efficient software development practices. This paper fills the gap identified in AI techniques dedicated to improving SE phases. The review concludes that AI in SE is revolutionizing the discipline, enhancing software quality, efficiency, and innovation, with ongoing efforts targeting the mitigation of identified limitations and the augmentation of AI capabilities for intelligent and dependable SE.
+C1 [Durrani, Usman Khan; Akpinar, Mustafa; Saleh, Mohammed] Higher Coll Technol, Dept Comp & Informat Sci, Dubai, U Arab Emirates.
+   [Akpinar, Mustafa] Sakarya Univ, Dept Software Engn, TR-54050 Sakarya, Turkiye.
+   [Adak, Muhammed Fatih] Sakarya Univ, Dept Comp Engn, TR-54050 Sakarya, Turkiye.
+   [Kabakus, Abdullah Talha] Duzce Univ, Dept Comp Engn, TR-81620 Duzce, Turkiye.
+   [Ozturk, Muhammed Maruf] Suleyman Demirel Univ, Dept Comp Engn, TR-32260 Isparta, Turkiye.
+C3 Higher Colleges of Technology - United Arab Emirates; Sakarya
+   University; Sakarya University; Duzce University; Suleyman Demirel
+   University
+RP Durrani, UK (corresponding author), Higher Coll Technol, Dept Comp & Informat Sci, Dubai, U Arab Emirates.
+EM dr.udurrani@gmail.com
+RI ; Akpinar, Mustafa/P-6304-2016; Durrani, Usman/LDF-3750-2024; Adak,
+   M./S-3712-2016; ozturk, mmaruf/GWC-7727-2022; Kabakus, Abdullah
+   Talha/J-8361-2019
+OI Saleh, Mohammed/0000-0002-8142-6323; Kabakus, Abdullah
+   Talha/0000-0003-2181-4292; ADAK, M. Fatih/0000-0003-4279-0648; Akpinar,
+   Mustafa/0000-0003-4926-3779; Durrani, Dr. Usman/0000-0003-4255-6253;
+   OZTURK, Muhammed Maruf/0000-0001-6446-9754
+NR 158
+TC 7
+Z9 8
+U1 23
+U2 43
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2024
+VL 12
+BP 171185
+EP 171204
+DI 10.1109/ACCESS.2024.3488904
+PG 20
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA N1P2K
+UT WOS:001362127900018
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Layman, L
+   Vetter, R
+AF Layman, Lucas
+   Vetter, Ron
+TI Generative Artificial Intelligence and the Future of Software Testing
+SO COMPUTER
+LA English
+DT Article
+DE Software testing; Privacy; Quality assurance; Artificial intelligence
+AB This virtual roundtable focuses on applications of generative artificial intelligence (GenAI) to software testing with four leading experts from the field. Our experts reflect on transforming the work of software testing with GenAI, its impact on quality assurance engineers, and privacy concerns.
+C1 [Layman, Lucas] Univ North Carolina Wilmington, Comp Sci, Wilmington, NC 28403 USA.
+   [Vetter, Ron] Univ North Carolina Wilmington, Coll Sci & Engn, Wilmington, NC 28403 USA.
+C3 University of North Carolina; University of North Carolina Wilmington;
+   University of North Carolina; University of North Carolina Wilmington
+RP Layman, L (corresponding author), Univ North Carolina Wilmington, Comp Sci, Wilmington, NC 28403 USA.
+EM laymanl@uncw.edu; vetterr@uncw.edu
+OI Layman, Lucas/0000-0002-2534-8762
+NR 7
+TC 7
+Z9 9
+U1 12
+U2 69
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0018-9162
+EI 1558-0814
+J9 COMPUTER
+JI Computer
+PD JAN
+PY 2024
+VL 57
+IS 1
+BP 27
+EP 32
+DI 10.1109/MC.2023.3306998
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA EC7P2
+UT WOS:001136783900007
+OA Bronze
+DA 2025-11-07
+ER
+
+PT C
+AU Rahman, T
+   Singh, R
+   Sultan, MY
+AF Rahman, Tajmilur
+   Singh, Rahul
+   Sultan, Mir Yousuf
+GP Assoc Computing Machinery
+TI Automating Patch Set Generation from Code Review Comments Using Large
+   Language Models
+SO PROCEEDINGS 2024 IEEE/ACM 3RD INTERNATIONAL CONFERENCE ON AI
+   ENGINEERING-SOFTWARE ENGINEERING FOR AI, CAIN 2024
+LA English
+DT Proceedings Paper
+CT IEEE/ACM 3rd International Conference on AI Engineering - Software
+   Engineering for AI (CAIN)
+CY APR 14-15, 2024
+CL Lisbon, PORTUGAL
+SP IEEE, Assoc Comp Machinery, IEEE Comp Soc
+DE Large Language Models; Automated Code Review; Software Engineering; Pull
+   Requests; Code Quality
+AB The advent of Large Language Models (LLMs) has revolutionized various domains of artificial intelligence, including the realm of software engineering. In this research, we evaluate the efficacy of pre-trained LLMs in replicating the tasks traditionally performed by developers in response to code review comments. We provide code contexts to five popular LLMs and obtain the suggested code-changes (patch sets) derived from real-world code-review comments. The performance of each model is meticulously assessed by comparing their generated patch sets against the historical data of human-generated patch-sets from the same repositories. This comparative analysis aims to determine the accuracy, relevance, and depth of the LLMs' feedback, thereby evaluating their readiness to support developers in responding to code-review comments. Novelty: This particular research area is still immature requiring a substantial amount of studies yet to be done. No prior research has compared the performance of existing Large Language Models (LLMs) in code-review comments. This in-progress study assesses current LLMs in code review and paves the way for future advancements in automated code quality assurance, reducing context-switching overhead due to interruptions from code change requests.
+C1 [Rahman, Tajmilur; Singh, Rahul; Sultan, Mir Yousuf] Gannon Univ, Erie, PA 16541 USA.
+C3 Gannon University
+RP Rahman, T (corresponding author), Gannon Univ, Erie, PA 16541 USA.
+EM rahman007@gannon.edu; rahul041@gannon.edu; mir002@gannon.edu
+NR 8
+TC 2
+Z9 3
+U1 1
+U2 7
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+BN 979-8-4007-0591-5
+PY 2024
+BP 273
+EP 274
+DI 10.1145/3644815.3644981
+PG 2
+WC Computer Science, Artificial Intelligence; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BX1TC
+UT WOS:001251227200041
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT J
+AU Abo-eleneen, A
+   Palliyali, A
+   Catal, C
+AF Abo-eleneen, Amr
+   Palliyali, Ahammed
+   Catal, Cagatay
+TI The role of Reinforcement Learning in software testing
+SO INFORMATION AND SOFTWARE TECHNOLOGY
+LA English
+DT Article
+DE Software testing; Machine learning; Reinforcement Learning; Artificial
+   intelligence
+AB Context: Software testing is applied to validate the behavior of the software system and identify flaws and bugs. Different machine learning technique types such as supervised and unsupervised learning were utilized in software testing. However, for some complex software testing scenarios, neither supervised nor unsupervised machine learning techniques were adequate. As such, researchers applied Reinforcement Learning (RL) techniques in some cases. However, a systematic overview of the state-of-the-art on the role of reinforcement learning in software testing is lacking.Objective: The objective of this study is to determine how and to what extent RL was used in software testing.Methods: In this study, a Systematic Literature Review (SLR) was conducted on the use of RL in software testing, and 40 primary studies were investigated.Results: This study highlights different software testing types to which RL has been applied, commonly used RL algorithms and architecture for learning, challenges faced, advantages and disadvantages of using RL, and the performance comparison of RL-based models against other techniques.Conclusions: RL has been widely used in software testing but has almost narrowed to two applications. There is a shortage of papers using advanced RL techniques in addition to multi-agent RL. Several challenges were presented in this study.
+C1 [Abo-eleneen, Amr; Palliyali, Ahammed; Catal, Cagatay] Qatar Univ, Dept Comp Sci & Engn, Doha 2713, Qatar.
+C3 Qatar University
+RP Catal, C (corresponding author), Qatar Univ, Dept Comp Sci & Engn, Doha 2713, Qatar.
+EM aa1405465@student.qu.edu.qa; ap1304567@student.qu.edu.qa;
+   ccatal@qu.edu.qa
+RI Catal, Cagatay/AAF-3929-2019
+OI Catal, Cagatay/0000-0003-0959-2930; aboeleneen, amr
+   essam/0000-0003-4957-6804
+FU Qatar National Library
+FX Open access funding provided by the Qatar National Library.
+NR 73
+TC 9
+Z9 11
+U1 7
+U2 42
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0950-5849
+EI 1873-6025
+J9 INFORM SOFTWARE TECH
+JI Inf. Softw. Technol.
+PD DEC
+PY 2023
+VL 164
+AR 107325
+DI 10.1016/j.infsof.2023.107325
+EA SEP 2023
+PG 14
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA T4QU2
+UT WOS:001077858700001
+OA Green Submitted, hybrid
+DA 2025-11-07
+ER
+
+PT J
+AU Boukhlif, M
+   Hanine, M
+   Kharmoum, N
+AF Boukhlif, Mohamed
+   Hanine, Mohamed
+   Kharmoum, Nassim
+TI A Decade of Intelligent Software Testing Research: A Bibliometric
+   Analysis
+SO ELECTRONICS
+LA English
+DT Review
+DE software testing; artificial intelligence; bibliometrics; bibliometrix
+   package; R; biblioshiny application; VOSviewer
+ID TEST DATA GENERATION; BLACK-BOX; SCIENCE; OPTIMIZATION; SEARCH;
+   COVERAGE; WEB
+AB It gets harder and harder to guarantee the quality of software systems due to their increasing complexity and fast development. Because it helps spot errors and gaps during the first phases of software development, software testing is one of the most crucial stages of software engineering. Software testing used to be done manually, which is a time-consuming, imprecise procedure that comes with errors and gaps and costs money, time, and effort. Currently, testing professionals routinely automate testing to obtain trustworthy results while saving time, cost, and labor. We've also moved the starting point of the software cycle to the developer, and made write tests before even writing code, or what's known as TDD (Test Driven Development). The use of new artificial intelligence techniques will enable the generation of smart test cases to improve test quality and provide better coverage and accurate results. In this study, we used the Web of Science database to acquire bibliometric data about intelligent software testing papers which were conducted between 2012 and 2022, and we used Biblioshiny from the R bibliomerix package, alongside with VOSViewer in order to analyze the data and extract insights and answer research questions about the authors, articles, journals, organizations, and countries publishing in the field of intelligent software testing. The focus of this study is on scientific progress and collaborative trends in scholarly research, providing a blueprint for showcasing worldwide developments in the realm of intelligent software testing. By gaining a comprehensive understanding of the present state of research on the application of artificial intelligence in software testing, this study can offer valuable insights to software engineers, architects, and researchers in the field.
+C1 [Boukhlif, Mohamed; Hanine, Mohamed] Chouaib Doukkali Univ, Natl Sch Appl Sci, LTI Lab, El Jadida 24000, Morocco.
+   [Kharmoum, Nassim] Mohammed V Univ Rabat, Fac Sci, IPSS Team, Rabat 10000, Morocco.
+   [Kharmoum, Nassim] Natl Ctr Sci & Tech Res CNRST, Rabat 10000, Morocco.
+C3 Chouaib Doukkali University of El Jadida; Mohammed V University in
+   Rabat; Centre National de la Recherche Scientifique & Technologique
+   (CNRST)
+RP Hanine, M (corresponding author), Chouaib Doukkali Univ, Natl Sch Appl Sci, LTI Lab, El Jadida 24000, Morocco.
+EM mohamed.boukhlif.rd@gmail.com; hanine.m@ucd.ac.ma; nkharmoum@gmail.com
+RI ; Boukhlif, Mohamed/AEA-7112-2022; Kharmoum, Nassim/GVT-2787-2022;
+   Hanine, Mohamed/AAC-1879-2021
+OI Hanine, Mohamed/0000-0001-5981-2511; Boukhlif,
+   Mohamed/0000-0001-9053-4345; 
+NR 76
+TC 9
+Z9 13
+U1 6
+U2 64
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2079-9292
+J9 ELECTRONICS-SWITZ
+JI Electronics
+PD MAY 5
+PY 2023
+VL 12
+IS 9
+AR 2109
+DI 10.3390/electronics12092109
+PG 29
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Physics
+GA G1ZB9
+UT WOS:000987212200001
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Garrad, P
+   Unnikrishnan, S
+AF Garrad, Phillip
+   Unnikrishnan, Saritha
+TI Reinforcement learning in VANET penetration testing*
+SO RESULTS IN ENGINEERING
+LA English
+DT Article
+DE Cybersecurity; Connected vehicles; Software simulation; Artificial
+   intelligence; Penetration testing
+AB The recent popularity of Connected and Autonomous Vehicles (CAV) corresponds with an increase in the risk of cyber-attacks. These cyber-attacks are instigated by white-coat hackers, and cyber-criminals. As Connected Vehicles move towards full autonomy the impact of these cyber-attacks also grows. The current research highlights challenges faced in cybersecurity testing of CAV, including access, the cost of representative test setup and the lack of experts in the field. Possible solutions of how these challenges can be overcome are reviewed and discussed. From these findings a software simulated Vehicular Ad Hoc NETwork (VANET) is established as a costeffective representative testbed. Penetration tests are then performed on this simulation, demonstrating a cyberattack in CAV. Studies have shown Artificial Intelligence (AI) to improve runtime, increase efficiency and comprehensively cover all the typical test aspects, in penetration testing in other industries. In this research a Reinforcement Learning model, called Q-Learning, is applied to automate the software simulation. The expectation from this implementation is to see improvements in runtime and efficiency for the VANET model. The results show this approach to be promising and using AI in penetration testing for VANET to improve efficiency in most cases. Each case is reviewed in detail before discussing possible ways to improve the implementation and get a truer reflection of the real-world application.
+C1 [Garrad, Phillip; Unnikrishnan, Saritha] Atlantic Technol Univ ATU Sligo, Fac Engn & Design, Sligo, Ireland.
+   [Unnikrishnan, Saritha] ATU Sligo, Math Modelling & Intelligent Syst Hlth & Environm, Sligo, Ireland.
+C3 Atlantic Technological University (ATU)
+RP Garrad, P; Unnikrishnan, S (corresponding author), Atlantic Technol Univ ATU Sligo, Fac Engn & Design, Sligo, Ireland.
+EM phillgarrad@gmail.com; Saritha.Unnikrishnan@atu.ie
+OI Garrad, Phillip/0000-0001-8768-2793
+FU Centre for Mathematical Modelling and Intelligent Systems for Health and
+   Environment (MISHE)
+FX The authors would like to acknowledge the Centre for Mathematical
+   Modelling and Intelligent Systems for Health and Environment (MISHE) for
+   their support. The authors wish to thank the Atlantic Technological
+   University (ATU) Sligo of Ireland for providing the teaching and
+   learning facilities. This research was carried out as part of the P.
+   Garrad's thesis in his Master's in Connected and Autonomous Vehicles.
+   The authors would like to thank Shane Gilroy, lecturer at ATU for his
+   mentorship and coordination of the master's Programme. P. Garrad thanks
+   Sharon George for her review and feedback throughout drafting of this
+   paper.
+NR 20
+TC 7
+Z9 7
+U1 1
+U2 9
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2590-1230
+J9 RESULTS ENG
+JI Results Eng.
+PD MAR
+PY 2023
+VL 17
+AR 100970
+DI 10.1016/j.rineng.2023.100970
+EA FEB 2023
+PG 7
+WC Engineering, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Engineering
+GA 9S3UL
+UT WOS:000946269100001
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Ali, M
+   Mazhar, T
+   Shahzad, T
+   Ghadi, YY
+   Mohsin, SM
+   Akber, SMA
+   Ali, M
+AF Ali, Misbah
+   Mazhar, Tehseen
+   Shahzad, Tariq
+   Ghadi, Yazeed Yasin
+   Mohsin, Syed Muhammad
+   Akber, Syed Muhammad Abrar
+   Ali, Mohammed
+TI Analysis of Feature Selection Methods in Software Defect Prediction
+   Models
+SO IEEE ACCESS
+LA English
+DT Article
+DE Machine learning; feature selection; software defect prediction;
+   artificial intelligence
+ID FRAMEWORK; ALGORITHMS
+AB Improving software quality by proactively detecting potential defects during development is a major goal of software engineering. Software defect prediction plays a central role in achieving this goal. The power of data analytics and machine learning allows us to focus our efforts where they are needed most. A key factor in the success of software fault prediction is selecting relevant features and reducing data dimensionality. Feature selection methods contribute by filtering out the most critical attributes from a plethora of potential features. These methods have the potential to significantly improve the accuracy and efficiency of fault prediction models. However, the field of feature selection in the context of software fault prediction is vast and constantly evolving, with a variety of techniques and tools available. Based on these considerations, our systematic literature review conducts a comprehensive investigation of feature selection methods used in the context of software fault prediction. The research uses a refined search strategy involving four reputable digital libraries, including IEEE Explore, Science Direct, ACM Digital Library, and Springer Link, to provide a comprehensive and exhaustive review through a rigorous analysis of 49 selected primary studies from 2014. The results highlight several important issues. First, there is a prevalence of filtering and hybrid feature selection methods. Second, single classifiers such as Naive Bayes, Support Vector Machine, and Decision Tree, as well as ensemble classifiers such as Random Forest, Bagging, and AdaBoost are commonly used. Third, evaluation metrics such as area under the curve, accuracy, and F-measure are commonly used for performance evaluation. Finally, there is a clear preference for tools such as WEKA, MATLAB, and Python. By providing insights into current trends and practices in the field, this study offers valuable guidance to researchers and practitioners to make informed decisions to improve software fault prediction models and contribute to the overall improvement of software quality.
+C1 [Ali, Misbah; Mazhar, Tehseen] Virtual Univ Pakistan, Dept Comp Sci, Lahore 55150, Pakistan.
+   [Shahzad, Tariq] COMSATS Univ Islamabad, Dept Comp Sci, Sahiwal Campus, Sahiwal 57000, Pakistan.
+   [Ghadi, Yazeed Yasin] Al Ain Univ, Dept Comp Sci & Software Engn, Abu Dhabi, U Arab Emirates.
+   [Mohsin, Syed Muhammad] COMSATS Univ Islamabad, Dept Comp Sci, Islamabad 45550, Pakistan.
+   [Mohsin, Syed Muhammad] Virtual Univ Pakistan, Coll Intellectual Novitiates COIN, Lahore 55150, Pakistan.
+   [Akber, Syed Muhammad Abrar] Silesian Tech Univ, Fac Automat Control Elect & Comp Sci, Dept Comp Graph Vis & Digital Syst, PL-44100 Gliwice, Poland.
+   [Ali, Mohammed] King Khalid Univ, Appl Coll, Dept Comp Sci, Abha 61421, Saudi Arabia.
+C3 Virtual University of Pakistan; COMSATS University Islamabad (CUI);
+   COMSATS University Islamabad (CUI); Virtual University of Pakistan;
+   Silesian University of Technology; King Khalid University
+RP Mazhar, T (corresponding author), Virtual Univ Pakistan, Dept Comp Sci, Lahore 55150, Pakistan.; Mohsin, SM (corresponding author), COMSATS Univ Islamabad, Dept Comp Sci, Islamabad 45550, Pakistan.; Mohsin, SM (corresponding author), Virtual Univ Pakistan, Coll Intellectual Novitiates COIN, Lahore 55150, Pakistan.; Akber, SMA (corresponding author), Silesian Tech Univ, Fac Automat Control Elect & Comp Sci, Dept Comp Graph Vis & Digital Syst, PL-44100 Gliwice, Poland.
+EM tehseenmazhar719@gmail.com; syedmmohsin9@gmail.com; abrar.akber@polsl.pl
+RI ; Akber, Syed Muhammad Abrar/ABA-8631-2022; Mohsin, Syed
+   Muhammad/AAK-3534-2020; Ali, Misbah/LSJ-0806-2024; Ghadi,
+   Yazeed/AAW-6774-2021; Mazhar, TEHSEEN/JED-4787-2023; Shahzad,
+   Tariq/IWU-6778-2023
+OI Akber, Syed Muhammad Abrar/0000-0002-8863-2568; Ali,
+   Mohammed/0000-0002-5908-4013; Shahzad, Tariq/0000-0001-5718-5585; Ghadi,
+   Yazeed Yasin/0000-0002-7121-495X; MAZHAR, TEHSEEN/0000-0002-4649-2376; ,
+   Misbah Ali/0009-0004-0152-150X; Mohsin, Syed
+   Muhammad/0000-0003-0886-9061
+FU Deanship of Scientific Research (DSR), King Khalid University, Abha,
+   Saudi Arabia
+FX No Statement Available
+NR 82
+TC 10
+Z9 11
+U1 2
+U2 18
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2023
+VL 11
+BP 145954
+EP 145974
+DI 10.1109/ACCESS.2023.3343249
+PG 21
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA DL7J0
+UT WOS:001132260400001
+OA gold
+DA 2025-11-07
+ER
+
+PT C
+AU Ramírez, A
+   Berrios, M
+   Romero, JR
+   Feldt, R
+AF Ramirez, Aurora
+   Berrios, Mario
+   Raul Romero, Jose
+   Feldt, Robert
+GP IEEE
+TI Towards Explainable Test Case Prioritisation with Learning-to-Rank
+   Models
+SO 2023 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE TESTING, VERIFICATION AND
+   VALIDATION WORKSHOPS, ICSTW
+SE IEEE International Conference on Software Testing Verification and
+   Validation Workshops
+LA English
+DT Proceedings Paper
+CT 16th IEEE International Conference on Software Testing, Verification and
+   Validation (ICST)
+CY APR 16-20, 2023
+CL Dublin, IRELAND
+SP IEEE, IEEE Comp Soc, Fidel Investments, Failte Ireland, LERO, Meta, Google
+DE test case prioritisation; explainable artificial intelligence; machine
+   learning; learning-to-rank
+AB Test case prioritisation (TCP) is a critical task in regression testing to ensure quality as software evolves. Machine learning has become a common way to achieve it. In particular, learning-to-rank (LTR) algorithms provide an effective method of ordering and prioritising test cases. However, their use poses a challenge in terms of explainability, both globally at the model level and locally for particular results. Here, we present and discuss scenarios that require different explanations and how the particularities of TCP (multiple builds over time, test case and test suite variations, etc.) could influence them. We include a preliminary experiment to analyse the similarity of explanations, showing that they do not only vary depending on test case-specific predictions, but also on the relative ranks.
+C1 [Ramirez, Aurora; Berrios, Mario; Raul Romero, Jose] Univ Cordoba, Dept Comp Sci & Numer Anal, Cordoba, Spain.
+   [Feldt, Robert] Chalmers Univ Technol, Softw Eng Div, Dept Comp Sci & Engn, Gothenburg, Sweden.
+C3 Universidad de Cordoba; Chalmers University of Technology
+RP Ramírez, A (corresponding author), Univ Cordoba, Dept Comp Sci & Numer Anal, Cordoba, Spain.
+EM aramirez@uco.es; i12bercm@uco.es; jrromero@uco.es;
+   robert.feldt@chalmers.se
+RI Ramírez, Aurora/A-3635-2019; Romero, Jose/I-5658-2015
+OI Berrios, Mario/0009-0000-8900-9930; 
+FU Andalusian Regional Government [PID2020-115832GB-I00, RED2018-102472-T,
+   MICIN/AEI/10.13039/501100011033];  [DOC_00944]
+FX Grants PID2020-115832GB-I00 and RED2018-102472-T funded by
+   MICIN/AEI/10.13039/501100011033. Andalusian Regional Government
+   (postdoctoral grand DOC_00944).
+NR 16
+TC 4
+Z9 4
+U1 1
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN 2159-4848
+BN 979-8-3503-3335-0
+J9 IEEE ICST WORKSHOP
+PY 2023
+BP 66
+EP 69
+DI 10.1109/ICSTW58534.2023.00023
+PG 4
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BV2PQ
+UT WOS:001009223100009
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT J
+AU Rajapaksha, D
+   Tantithamthavorn, C
+   Jiarpakdee, J
+   Bergmeir, C
+   Grundy, J
+   Buntine, W
+AF Rajapaksha, Dilini
+   Tantithamthavorn, Chakkrit
+   Jiarpakdee, Jirayus
+   Bergmeir, Christoph
+   Grundy, John
+   Buntine, Wray
+TI SQAPlanner: Generating Data-Informed Software Quality Improvement Plans
+SO IEEE TRANSACTIONS ON SOFTWARE ENGINEERING
+LA English
+DT Article
+DE Planning; Software; Predictive models; Visualization; Tools; Artificial
+   intelligence; Software quality; Software quality assurance; SQA
+   planning; actionable software analytics; explainable AI
+AB Software Quality Assurance (SQA) planning aims to define proactive plans, such as defining maximum file size, to prevent the occurrence of software defects in future releases. To aid this, defect prediction models have been proposed to generate insights as the most important factors that are associated with software quality. Such insights that are derived from traditional defect models are far from actionable-i.e., practitioners still do not know what they should do or avoid to decrease the risk of having defects, and what is the risk threshold for each metric. A lack of actionable guidance and risk threshold can lead to inefficient and ineffective SQA planning processes. In this paper, we investigate the practitioners' perceptions of current SQA planning activities, current challenges of such SQA planning activities, and propose four types of guidance to support SQA planning. We then propose and evaluate our AI-Driven SQAPlanner approach, a novel approach for generating four types of guidance and their associated risk thresholds in the form of rule-based explanations for the predictions of defect prediction models. Finally, we develop and evaluate a visualization for our SQAPlanner approach. Through the use of qualitative survey and empirical evaluation, our results lead us to conclude that SQAPlanner is needed, effective, stable, and practically applicable. We also find that 80 percent of our survey respondents perceived that our visualization is more actionable. Thus, our SQAPlanner paves a way for novel research in actionable software analytics-i.e., generating actionable guidance on what should practitioners do and not do to decrease the risk of having defects to support SQA planning.
+C1 [Rajapaksha, Dilini; Tantithamthavorn, Chakkrit; Jiarpakdee, Jirayus; Bergmeir, Christoph; Grundy, John; Buntine, Wray] Monash Univ, Fac Informat Technol, Melbourne, Vic 3800, Australia.
+C3 Monash University
+RP Tantithamthavorn, C (corresponding author), Monash Univ, Fac Informat Technol, Melbourne, Vic 3800, Australia.
+EM dilini.rajapakshahewaranasinghage@monash.edu; chakkrit@monash.edu;
+   jirayus.jiarpakdee@monash.edu; christoph.bergmeir@monash.edu;
+   john.grundy@monash.edu; wray.buntine@monash.edu
+RI ; Bergmeir, Christoph/Q-9911-2019; Grundy, John/I-6681-2012
+OI Buntine, Wray/0000-0001-9292-1015; Bergmeir,
+   Christoph/0000-0002-3665-9021; Tantithamthavorn,
+   Chakkrit/0000-0002-5516-9984; Grundy, John/0000-0003-4928-7076
+FU Australian Research Council's Discovery Early Career Researcher Award
+   (ARC DECRA) [DE200100941, DE190100045]; Australian Research Council's
+   Laureate Fellowship funding scheme [FL190100035]
+FX Chakkrit Tantithamthavorn was partially supported by the Australian
+   Research Council's Discovery Early Career Researcher Award (ARC DECRA)
+   funding scheme (DE200100941). Christoph Bergmeir was partially supported
+   by the Australian Research Council's Discovery Early Career Researcher
+   Award (ARC DECRA) funding scheme (DE190100045). John Grundy was
+   partially supported by the Australian Research Council's Laureate
+   Fellowship funding scheme (FL190100035).
+NR 59
+TC 27
+Z9 32
+U1 5
+U2 15
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0098-5589
+EI 1939-3520
+J9 IEEE T SOFTWARE ENG
+JI IEEE Trans. Softw. Eng.
+PD AUG 1
+PY 2022
+VL 48
+IS 8
+BP 2814
+EP 2835
+DI 10.1109/TSE.2021.3070559
+PG 22
+WC Computer Science, Software Engineering; Engineering, Electrical &
+   Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+GA 4D1BG
+UT WOS:000846878500008
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT J
+AU Kusharki, MB
+   Misra, S
+   Muhammad-Bello, B
+   Salihu, IA
+   Suri, B
+AF Kusharki, Muhammad Bello
+   Misra, Sanjay
+   Muhammad-Bello, Bilkisu
+   Salihu, Ibrahim Anka
+   Suri, Bharti
+TI Automatic Classification of Equivalent Mutants in Mutation Testing of
+   Android Applications
+SO SYMMETRY-BASEL
+LA English
+DT Article
+DE software testing; artificial intelligence; mutation testing; android
+   applications; tree-based convolutional neural networks
+AB Software and symmetric testing methodologies are primarily used in detecting software defects, but these testing methodologies need to be optimized to mitigate the wasting of resources. As mobile applications are becoming more prevalent in recent times, the need to have mobile applications that satisfy software quality through testing cannot be overemphasized. Testing suites and software quality assurance techniques have also become prevalent, which underscores the need to evaluate the efficacy of these tools in the testing of the applications. Mutation testing is one such technique, which is the process of injecting small changes into the software under test (SUT), thereby creating mutants. These mutants are then tested using mutation testing techniques alongside the SUT to determine the effectiveness of test suites through mutation scoring. Although mutation testing is effective, the cost of implementing it, due to the problem of equivalent mutants, is very high. Many research works gave varying solutions to this problem, but none used a standardized dataset. In this research work, we employed a standard mutant dataset tool called MutantBench to generate our data. Subsequently, an Abstract Syntax Tree (AST) was used in conjunction with a tree-based convolutional neural network (TBCNN) as our deep learning model to automate the classification of the equivalent mutants to reduce the cost of mutation testing in software testing of android applications. The result shows that the proposed model produces a good accuracy rate of 94%, as well as other performance metrics such as recall (96%), precision (89%), F1-score (92%), and Matthew's correlation coefficients (88%) with fewer False Negatives and False Positives during testing, which is significant as it implies that there is a decrease in the risk of misclassification.
+C1 [Kusharki, Muhammad Bello] Natl Def Coll, Dept Informat & Commun Technol, Abuja 900128, Nigeria.
+   [Misra, Sanjay] Ostfold Univ Coll, Dept Comp Sci & Commun, POB 700, NO-1757 Halden, Norway.
+   [Muhammad-Bello, Bilkisu; Salihu, Ibrahim Anka] Nile Univ Nigeria, Software Engn & Informat Technol Dept, Abuja 900001, Nigeria.
+   [Suri, Bharti] GGS Indraprastha Univ, Univ Sch Informat & Commun Technol, Delhi 110078, India.
+C3 Ostfold University College; GGS Indraprastha University
+RP Misra, S (corresponding author), Ostfold Univ Coll, Dept Comp Sci & Commun, POB 700, NO-1757 Halden, Norway.
+EM mbkusharki@ndc.gov.ng; sanjay.misra@hiof.no;
+   bilkisu.muhammad-bello@nileuniversity.edu.ng;
+   ibrahim.salihu@nileuniversity.edu.ng; bhartisuri@ipu.ac.in
+RI ; Muhammad-Bello, Bilkisu/HGQ-9890-2022; Salihu, Ibrahim/AAV-3261-2020;
+   Misra, Sanjay/K-2203-2014; Kusharki, Muhammad/AEN-8526-2022; Suri,
+   Bharti/NCV-3745-2025
+OI Muhammad-Bello, Bilkisu/0000-0002-4020-7175; Salihu, Ibrahim
+   Anka/0000-0001-7015-8741; Suri, Bharti/0000-0003-0897-0928; Misra,
+   Sanjay/0000-0002-3556-9331; Kusharki, Muhammad
+   Bello/0000-0003-0901-2326; 
+NR 31
+TC 5
+Z9 5
+U1 0
+U2 10
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2073-8994
+J9 SYMMETRY-BASEL
+JI Symmetry-Basel
+PD APR
+PY 2022
+VL 14
+IS 4
+AR 820
+DI 10.3390/sym14040820
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 0Q6ME
+UT WOS:000785029500001
+OA Green Submitted, gold
+DA 2025-11-07
+ER
+
+PT C
+AU Leotta, M
+   Ricca, F
+   Stoppa, S
+   Marchetto, A
+AF Leotta, Maurizio
+   Ricca, Filippo
+   Stoppa, Simone
+   Marchetto, Alessandro
+BE Vallecillo, A
+   Visser, J
+   Perez-Castillo, R
+TI Is NLP-based Test Automation Cheaper Than Programmable and
+   Capture&Replay?
+SO QUALITY OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, QUATIC 2022
+SE Communications in Computer and Information Science
+LA English
+DT Proceedings Paper
+CT 15th International Conference on Quality of Information and
+   Communications Technology (QUATIC)
+CY SEP 12-14, 2022
+CL Univ Castilla La Mancha, Talavera de la Reina, SPAIN
+SP AQC Lab, aQuantum, DQTeam, Catedras Telefonica, Aula SMACT
+HO Univ Castilla La Mancha
+DE Test automation; Web testing; NLP; Artificial intelligence
+ID GENERATION
+AB Nowadays, there is a growing interest in the use of Natural-Language Processing (NLP) for supporting software test automation. This paper investigates the adoption of NLP in web testing. To this aim, a case study has been conducted to compare the cost of the adoption of a NLP testing approach, with respect to more consolidated approaches, i.e., programmable testing and capture and replay testing, in two testing tasks: test cases development and test case evolution/maintenance. Even if preliminary, results show that NLP testing is quite competitive with respect to the more consolidated approaches since the cumulative testing effort of a NLP testing approach, computed considering both development and evolution efforts, is almost always lower than the one of programmable testing and capture&replay testing.
+C1 [Leotta, Maurizio; Ricca, Filippo; Stoppa, Simone] Univ Genoa, Dipartimento Informat Bioingn Robot & Ingn Sistem, Genoa, Italy.
+   [Marchetto, Alessandro] Univ Trento, Trento, Italy.
+C3 University of Genoa; University of Trento
+RP Leotta, M (corresponding author), Univ Genoa, Dipartimento Informat Bioingn Robot & Ingn Sistem, Genoa, Italy.
+EM maurizio.leotta@unige.it; filippo.ricca@unige.it;
+   4251721@studenti.unige.it; alessandro.marchetto@unitn.it
+RI Ricca, Filippo/ABB-3276-2020; Leotta, Maurizio/I-8145-2014; Marchetto,
+   Alessandro/AAE-4179-2022
+OI Stoppa, Simone/0000-0001-8684-0673; Leotta,
+   Maurizio/0000-0001-5267-0602; ricca, filippo/0000-0002-3928-5408;
+   Marchetto, Alessandro/0000-0002-6833-896X
+NR 19
+TC 2
+Z9 2
+U1 1
+U2 6
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1865-0929
+EI 1865-0937
+BN 978-3-031-14179-9; 978-3-031-14178-2
+J9 COMM COM INF SC
+PY 2022
+VL 1621
+BP 77
+EP 92
+DI 10.1007/978-3-031-14179-9_6
+PG 16
+WC Computer Science, Cybernetics; Computer Science, Information Systems
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BU0NK
+UT WOS:000870625200006
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT C
+AU Navaei, M
+   Tabrizi, N
+AF Navaei, Maryam
+   Tabrizi, Nasseh
+BE Kaindl, H
+   Mannion, M
+   Maciaszek, L
+TI Machine Learning in Software Development Life Cycle: A Comprehensive
+   Review
+SO ENASE: PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON EVALUATION OF
+   NOVEL APPROACHES TO SOFTWARE ENGINEERING
+LA English
+DT Proceedings Paper
+CT 17th International Conference on Evaluation of Novel Approaches to
+   Software Engineering (ENASE)
+CY APR 25-26, 2022
+CL ELECTR NETWORK
+SP INSTICC
+DE Software Engineering; Software Development Life Cycle; Artificial
+   Intelligence; Machine Learning; Machine Learning Algorithms
+AB This research concludes an overall summary of the publications so far on the applied Machine Learning (ML) techniques in different phases of Software Development Life Cycle (SDLC) that includes Requirement Analysis, Design, Implementation, Testing, and Maintenance. We have performed a systematic review of the research studies published from 2015-2021 and revealed that Software Requirements Analysis phase has the least number of papers published; in contrast, Software Testing is the phase with the greatest number of papers published.
+C1 [Navaei, Maryam; Tabrizi, Nasseh] East Carolina Univ, Dept Comp Sci, East 5th St, Greenville, NC 27858 USA.
+C3 University of North Carolina; East Carolina University
+RP Navaei, M (corresponding author), East Carolina Univ, Dept Comp Sci, East 5th St, Greenville, NC 27858 USA.
+NR 62
+TC 4
+Z9 5
+U1 3
+U2 23
+PU SCITEPRESS
+PI SETUBAL
+PA AV D MANUELL, 27A 2 ESQ, SETUBAL, 2910-595, PORTUGAL
+BN 978-989-758-568-5
+PY 2022
+BP 344
+EP 354
+DI 10.5220/0011040600003176
+PG 11
+WC Computer Science, Software Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BT2WN
+UT WOS:000814765400033
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Pandit, M
+   Gupta, D
+   Anand, D
+   Goyal, N
+   Aljahdali, HM
+   Mansilla, AO
+   Kadry, S
+   Kumar, A
+AF Pandit, Mahesha
+   Gupta, Deepali
+   Anand, Divya
+   Goyal, Nitin
+   Aljahdali, Hani Moaiteq
+   Mansilla, Arturo Ortega
+   Kadry, Seifedine
+   Kumar, Arun
+TI Towards Design and Feasibility Analysis of DePaaS: AI Based Global
+   Unified Software Defect Prediction Framework
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE software defect prediction; cross-project defect prediction; DePaaS;
+   defect prediction as a service; cloud-based defect prediction; software
+   defect prediction service
+ID METRICS
+AB Featured Application DePaaS has the potential to be used as a global, shared platform for availing software defects prediction services by choosing appropriate base project, defect prediction model and prediction granularity. Over time, DePaaS can potentially become a rich source of defects metadata and provide deep insights into developing efficient software defects prediction models. It can promote inter-agency collaboration, data sharing, continuous improvement, and further research into application of artificial intelligence, genetic programming, and other techniques for solving key problems of software engineering. Using artificial intelligence (AI) based software defect prediction (SDP) techniques in the software development process helps isolate defective software modules, count the number of software defects, and identify risky code changes. However, software development teams are unaware of SDP and do not have easy access to relevant models and techniques. The major reason for this problem seems to be the fragmentation of SDP research and SDP practice. To unify SDP research and practice this article introduces a cloud-based, global, unified AI framework for SDP called DePaaS-Defects Prediction as a Service. The article describes the usage context, use cases and detailed architecture of DePaaS and presents the first response of the industry practitioners to DePaaS. In a first of its kind survey, the article captures practitioner's belief into SDP and ability of DePaaS to solve some of the known challenges of the field of software defect prediction. This article also provides a novel process for SDP, detailed description of the structure and behaviour of DePaaS architecture components, six best SDP models offered by DePaaS, a description of algorithms that recommend SDP models, feature sets and tunable parameters, and a rich set of challenges to build, use and sustain DePaaS. With the contributions of this article, SDP research and practice could be unified enabling building and using more pragmatic defect prediction models leading to increase in the efficiency of software testing.
+C1 [Pandit, Mahesha; Gupta, Deepali; Goyal, Nitin] Chitkara Univ, Inst Engn & Technol, Rajpura 140401, India.
+   [Anand, Divya] Lovely Profess Univ, Dept Comp Sci & Engn, Phagwara 144411, India.
+   [Anand, Divya; Mansilla, Arturo Ortega] Univ Europea Atlantico, Higher Polytech Sch, C Isabel Torres 21, Santander 39011, Spain.
+   [Aljahdali, Hani Moaiteq] King Abdulaziz Univ, Fac Comp & Informat Technol, Jeddah 37848, Saudi Arabia.
+   [Mansilla, Arturo Ortega] Univ Int Iberoamericana, Dept Project Management, Campeche 24560, Campeche, Mexico.
+   [Kadry, Seifedine] Noroff Univ, Fac Appl Comp & Technol, N-94612 Kristiansand, Norway.
+   [Kumar, Arun] Panipat Inst Engn & Technol, Samalkha 132102, India.
+C3 Chitkara University, Punjab; Lovely Professional University; King
+   Abdulaziz University; Panipat Institute of Engineering & Technology
+RP Goyal, N (corresponding author), Chitkara Univ, Inst Engn & Technol, Rajpura 140401, India.
+EM mahesha.pandit@chitkara.edu.in; deepali.gupta@chitkara.edu.in;
+   divyaanand.y@gmail.com; dr.nitingoyal30@gmail.com;
+   hmaljahdali@kau.edu.sa; arturo.ortega@uneatlantico.es; skadry@gmail.com;
+   ranaarun1.ece@piet.co.in
+RI ; Gupta, Deepali/HJY-4480-2023; Ortega-Mansilla, Arturo/AAB-6980-2019;
+   goyal, nitin/N-3696-2018; Anand, Divya/KIA-5889-2024; kumar,
+   arun/AAC-5048-2021; Pandit, Mahesha/GLR-1342-2022; Kadry,
+   Seifedine/C-7437-2011; ALJAHDALI, HANI/GLN-5656-2022
+OI Gupta, Deepali/0000-0002-3207-5248; GOYAL, NITIN/0000-0001-7878-363X;
+   Rana, Arun/0000-0002-1707-1847; Anand, Divya/0000-0003-4915-8426;
+   Ortega-Mansilla, Arturo/0000-0002-3692-2416; 
+FU Deanship of Scientific Research (DSR), King Abdulaziz University, Jeddah
+   [D-61-830-1443]
+FX FundingThis project was funded by the Deanship of Scientific Research
+   (DSR), King Abdulaziz University, Jeddah, under grant No.
+   (D-61-830-1443). The authors, therefore, gratefully acknowledge DSR
+   technical and financial support.
+NR 27
+TC 10
+Z9 12
+U1 0
+U2 16
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD JAN
+PY 2022
+VL 12
+IS 1
+AR 493
+DI 10.3390/app12010493
+PG 26
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials
+   Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Materials Science; Physics
+GA YQ7HB
+UT WOS:000749475700001
+OA Green Submitted, gold
+DA 2025-11-07
+ER
+
+PT J
+AU Sofian, H
+   Yunus, NAM
+   Ahmad, R
+AF Sofian, Hazrina
+   Yunus, Nur Arzilawati Md
+   Ahmad, Rodina
+TI Systematic Mapping: Artificial Intelligence Techniques in Software
+   Engineering
+SO IEEE ACCESS
+LA English
+DT Article
+DE Artificial intelligence; Software; Systematics; Software engineering;
+   Data mining; Predictive models; Training; Artificial intelligence;
+   machine learning; deep learning; data mining; software engineering;
+   requirements engineering; analysis and design; software development;
+   software testing; software maintenance; software deployment
+ID MACHINE LEARNING TECHNIQUES; REQUIREMENTS; PREDICTION; VALIDITY
+AB Artificial Intelligence (AI) has become a core feature of today's real-world applications, making it a trending topic within the software engineering (SE) community. The rise in the availability of AI techniques encompasses the capability to make rapid, automated, impactful decisions and predictions, leading to the adoption of AI techniques in SE. With industry revolution 4.0, the role of software engineering has become critical for developing productive, efficient, and quality software. Thus, there is a major need for AI techniques to be applied to enhance and improve the critical activities within the software engineering phases. Software is developed through intelligent software engineering phases. This paper concerns a systematic mapping study that aimed to characterize the publication landscape of AI techniques in software engineering. Gaps are identified and discussed by mapping these AI techniques against the SE phases to which they contributed. Many systematic mapping review papers have been produced only for a specific AI technique or a specific SE phase or activity. Hence, to our best of knowledge within the last decade, there is no systematic mapping review that has fully explored the overall trends in AI techniques and their application to all SE phases.
+C1 [Sofian, Hazrina; Ahmad, Rodina] Univ Malaya, Fac Comp Sci & Informat Technol, Dept Software Engn, Kuala Lumpur 50603, Malaysia.
+   [Yunus, Nur Arzilawati Md] Univ Cyberjaya, Fac Business & Technol, Cyberjaya 63000, Selangor, Malaysia.
+C3 Universiti Malaya
+RP Ahmad, R (corresponding author), Univ Malaya, Fac Comp Sci & Informat Technol, Dept Software Engn, Kuala Lumpur 50603, Malaysia.
+EM rodina@um.edu.my
+RI Md Yunus, Nur Arzilawati/JBJ-3908-2023; Sofian, Hazrina/AAN-6865-2020;
+   Ahmad, Rodina/B-9582-2010
+OI Sofian, Hazrina/0000-0001-8375-6441; 
+FU Universiti Malaya [GPF097A-2020]
+FX This work was supported by the Universiti Malaya under Universiti Grant
+   GPF097A-2020.
+NR 77
+TC 19
+Z9 22
+U1 10
+U2 131
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2022
+VL 10
+BP 51021
+EP 51040
+DI 10.1109/ACCESS.2022.3174115
+PG 20
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA 1I7KH
+UT WOS:000797405600001
+OA gold
+DA 2025-11-07
+ER
+
+PT C
+AU Fernandes, PM
+   Lopes, M
+   Prada, R
+AF Fernandes, Pedro M.
+   Lopes, Manuel
+   Prada, Rui
+GP IEEE Comp Soc
+TI Agents for Automated User Experience Testing
+SO 2021 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE TESTING, VERIFICATION AND
+   VALIDATION WORKSHOPS (ICSTW 2021)
+SE IEEE International Conference on Software Testing Verification and
+   Validation Workshops
+LA English
+DT Proceedings Paper
+CT 14th IEEE Conference on Software Testing, Verification and Validation
+   (ICST)
+CY APR 12-16, 2021
+CL ELECTR NETWORK
+SP IEEE, IEEE Comp Soc, Opus Software, CESAR Sch, Facebook
+DE user experience; software testing; artificial intelligence; agents
+AB The automation of functional testing in software has allowed developers to continuously check for negative impacts on functionality throughout the iterative phases of development. This is not the case for User eXperience (UX), which has hitherto relied almost exclusively on testing with real users. User testing is a slow endeavour that can become a bottleneck for development of interactive systems. To address this problem, we here propose an agent based approach for automatic UX testing. We develop agents with basic problem solving skills and a core affect model, allowing us to model an artificial affective state as they traverse different levels of a game. Although this research is still at a primordial state, we believe the results here presented make a strong case for the use of intelligent agents endowed with affective computing models for automating UX testing.
+C1 [Fernandes, Pedro M.; Lopes, Manuel; Prada, Rui] Univ Lisbon, INESC ID, Lisbon, Portugal.
+   [Fernandes, Pedro M.; Lopes, Manuel; Prada, Rui] Univ Lisbon, Inst Super Tecn, Lisbon, Portugal.
+C3 INESC-ID; Universidade de Lisboa; Universidade de Lisboa
+RP Fernandes, PM (corresponding author), Univ Lisbon, INESC ID, Lisbon, Portugal.; Fernandes, PM (corresponding author), Univ Lisbon, Inst Super Tecn, Lisbon, Portugal.
+EM pedro.miguel.rocha.fernandes@ist.utl.pt;
+   manuel.lopes@tecnico.ulisboa.pt; rui.prada@tecnico.ulisboa.pt
+RI Lopes, Manuel/D-1608-2010; Fernandes, Pedro M./HTR-2911-2023; Prada,
+   Rui/JBJ-7395-2023
+OI Lopes, Manuel/0000-0002-6238-8974; 
+FU FCT-Portugal [UID/CEC/50021/2020, 2020.05865.BD]; EU [856716]; Fundação
+   para a Ciência e a Tecnologia [2020.05865.BD] Funding Source: FCT
+FX This research was supported by FCT-Portugal through grants
+   UID/CEC/50021/2020, 2020.05865.BD and by the EU H2020 RIA project iV4xr
+   : 856716.
+NR 24
+TC 5
+Z9 6
+U1 1
+U2 8
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN 2159-4848
+BN 978-1-6654-4456-9
+J9 IEEE ICST WORKSHOP
+PY 2021
+BP 247
+EP 253
+DI 10.1109/ICSTW52544.2021.00049
+PG 7
+WC Computer Science, Software Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BS0BO
+UT WOS:000680833800036
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT C
+AU Mirabella, AG
+   Martin-Lopez, A
+   Segura, S
+   Valencia-Cabrera, L
+   Ruiz-Cortés, A
+AF Giuliano Mirabella, A.
+   Martin-Lopez, Alberto
+   Segura, Sergio
+   Valencia-Cabrera, Luis
+   Ruiz-Cortes, Antonio
+GP IEEE
+TI Deep Learning-Based Prediction of Test Input Validity for RESTful APIs
+SO 2021 IEEE/ACM THIRD INTERNATIONAL WORKSHOP ON DEEP LEARNING FOR TESTING
+   AND TESTING FOR DEEP LEARNING (DEEPTEST 2021)
+LA English
+DT Proceedings Paper
+CT 3rd IEEE/ACM International Workshop on Deep Learning for Testing and
+   Testing for Deep Learning (DeepTest)
+CY MAY 22-30, 2021
+CL ELECTR NETWORK
+SP IEEE, Assoc Comp Machinery, IEEE Comp Soc
+DE RESTful web API; web services testing; artificial neural network
+AB Automated test case generation for RESTful web APIs is a thriving research topic due to their key role in software integration. Most approaches in this domain follow a black-box approach, where test cases are randomly derived from the API specification. These techniques show promising results, but they neglect constraints among input parameters (so-called interparameter dependencies), as these cannot be formally described in current API specification languages. As a result, when testing real-world services, most random test cases tend to be invalid since they violate some of the inter-parameter dependencies of the service, making human intervention indispensable. In this paper, we propose a deep learning-based approach for automatically predicting the validity of an API request (i.e., test input) before calling the actual API. The model is trained with the API requests and responses collected during the generation and execution of previous test cases. Preliminary results with five real-world RESTful APIs and 16K automatically generated test cases show that test inputs validity can be predicted with an accuracy ranging from 86% to 100% in APIs like Yelp, GitHub, and YouTube. These are encouraging results that show the potential of artificial intelligence to improve current test case generation techniques.
+C1 [Giuliano Mirabella, A.; Martin-Lopez, Alberto; Segura, Sergio; Valencia-Cabrera, Luis; Ruiz-Cortes, Antonio] Univ Seville, I3US Inst, SCORE Lab, Seville, Spain.
+C3 University of Sevilla
+RP Mirabella, AG (corresponding author), Univ Seville, I3US Inst, SCORE Lab, Seville, Spain.
+EM amirabella@us.es; alberto.martin@us.es; sergiosegura@us.es;
+   lvalencia@us.es; aruiz@us.es
+RI Cortés, Antonio/B-9056-2008; Valencia-Cabrera, Luis/F-7411-2010; Segura,
+   Sergio/A-9615-2011; Martin-Lopez, Alberto/U-8770-2018
+OI Valencia-Cabrera, Luis/0000-0002-6576-9529; Ruiz-Cortes,
+   Antonio/0000-0001-9827-1834; Martin-Lopez, Alberto/0000-0001-5501-9225
+NR 25
+TC 20
+Z9 23
+U1 1
+U2 5
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-6654-4565-8
+PY 2021
+BP 9
+EP 16
+DI 10.1109/DEEPTEST52559.2021.00008
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Software
+   Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BT7BP
+UT WOS:000847119400002
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT C
+AU Strandberg, PE
+   Frasheri, M
+   Enoiu, EP
+AF Strandberg, Per Erik
+   Frasheri, Mirgita
+   Enoiu, Eduard Paul
+GP IEEE Comp Soc
+TI Ethical AI-Powered Regression Test Selection
+SO THIRD IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE TESTING
+   (AITEST 2021)
+LA English
+DT Proceedings Paper
+CT 3rd IEEE International Conference on Artificial Intelligence Testing
+   (AITest)
+CY AUG 23-26, 2021
+CL ELECTR NETWORK
+SP IEEE, IEEE Comp Soc
+AB Test automation is common in software development; often one tests repeatedly to identify regressions. If the amount of test cases is large, one may select a subset and only use the most important test cases. The regression test selection (RTS) could be automated and enhanced with Artificial Intelligence (AI-RTS). This however could introduce ethical challenges. While such challenges in AI are in general well studied, there is a gap with respect to ethical AI-RTS. By exploring the literature and learning from our experiences of developing an industry AI-RTS tool, we contribute to the literature by identifying three challenges (assigning responsibility, bias in decision-making and lack of participation) and three approaches (explicability, supervision and diversity). Additionally, we provide a checklist for ethical AI-RTS to help guide the decision-making of the stakeholders involved in the process.
+C1 [Strandberg, Per Erik; Enoiu, Eduard Paul] Malardalen Univ, Stockholm, Sweden.
+   [Frasheri, Mirgita] Aarhus Univ, Aarhus, Denmark.
+C3 Malardalen University; Aarhus University
+RP Strandberg, PE (corresponding author), Malardalen Univ, Stockholm, Sweden.
+EM per.erik.strandberg@mdh.se; mirgita.frasheri@ece.au.dk;
+   eduard.paul.enoiu@mdh.se
+RI Enoiu, Eduard/N-6496-2015
+OI Enoiu, Eduard/0000-0003-2416-4205; Frasheri, Mirgita/0000-0001-7852-4582
+FU ITS ESSH grant [20150277]; Innovation Foundation Denmark
+   (AgroRobottiFleet); Poul Due Jensen Foundation (Centre for Digital Twin
+   Technology at Aarhus University); H2020 [957212]
+FX This research was partly funded by the 20150277 ITS ESSH grant,
+   Innovation Foundation Denmark (AgroRobottiFleet), the Poul Due Jensen
+   Foundation (Centre for Digital Twin Technology at Aarhus University),
+   and H2020 (957212).
+NR 13
+TC 4
+Z9 5
+U1 3
+U2 8
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+BN 978-1-6654-3481-2
+PY 2021
+BP 83
+EP 84
+DI 10.1109/AITEST52744.2021.00025
+PG 2
+WC Computer Science, Artificial Intelligence; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BT4OW
+UT WOS:000833266500015
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT J
+AU Tahvili, S
+   Hatvani, L
+   Ramentol, E
+   Pimentel, R
+   Afzal, W
+   Herrera, F
+AF Tahvili, Sahar
+   Hatvani, Leo
+   Ramentol, Enislay
+   Pimentel, Rita
+   Afzal, Wasif
+   Herrera, Francisco
+TI A novel methodology to classify test cases using natural language
+   processing and imbalanced learning
+SO ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+LA English
+DT Article
+DE Software testing; Artificial intelligence; Imbalanced classification;
+   Natural language processing; Optimization; IFROWANN; Doc2Vec
+ID TOPIC MODELS; DATA-SETS; SOFTWARE; CLASSIFICATION; PRIORITIZATION; SMOTE
+AB Detecting the dependency between integration test cases plays a vital role in the area of software test optimization. Classifying test cases into two main classes - dependent and independent - can be employed for several test optimization purposes such as parallel test execution, test automation, test case selection and prioritization, and test suite reduction. This task can be seen as an imbalanced classification problem due to the test cases' distribution. Often the number of dependent and independent test cases is uneven, which is related to the testing level, testing environment and complexity of the system under test. In this study, we propose a novel methodology that consists of two main steps. Firstly, by using natural language processing we analyze the test cases' specifications and turn them into a numeric vector. Secondly, by using the obtained data vectors, we classify each test case into a dependent or an independent class. We carry out a supervised learning approach using different methods for handling imbalanced datasets. The feasibility and possible generalization of the proposed methodology is evaluated in two industrial projects at Bombardier Transportation, Sweden, which indicates promising results.
+C1 [Tahvili, Sahar; Hatvani, Leo; Afzal, Wasif] Malardalen Univ, Sch Innovat Design & Engn, Vasteras, Sweden.
+   [Tahvili, Sahar] Ericsson AB, Global Artificial Intelligence Accelerator GAIA, Stockholm, Sweden.
+   [Ramentol, Enislay] Fraunhofer Inst Ind Math, Dept Financial Math, Kaiserslautern, Germany.
+   [Pimentel, Rita] Vasteras AB, RISE SICS, Vasteras, Sweden.
+   [Herrera, Francisco] Univ Granada, Dept Comp Sci & AI, Granada, Spain.
+   [Herrera, Francisco] King Abdulaziz Univ, Fac Comp & Informat Technol North Jeddah, Jeddah, Saudi Arabia.
+   [Pimentel, Rita] Norwegian Univ Sci & Technol, Dept Ind Econ & Technol Management, Trondheim, Norway.
+C3 Malardalen University; Ericsson; Fraunhofer Gesellschaft; Fraunhofer
+   Germany; Fraunhofer Industrial Mathematics; RISE Research Institutes of
+   Sweden; University of Granada; King Abdulaziz University; Norwegian
+   University of Science & Technology (NTNU)
+RP Hatvani, L (corresponding author), Malardalen Univ, Sch Innovat Design & Engn, Vasteras, Sweden.; Tahvili, S (corresponding author), Ericsson AB, Global Artificial Intelligence Accelerator GAIA, Stockholm, Sweden.; Ramentol, E (corresponding author), Fraunhofer Inst Ind Math, Dept Financial Math, Kaiserslautern, Germany.
+EM sahar.tahvili@mdh.se; leo.hatvani@mdh.se;
+   enislay.ramentol@itwm.fraunhofer.de; rita.pimentel@ntnu.no;
+   wasif.afzal@mdh.se; herrera@decsai.ugr.es
+RI Tahvili, Sahar/V-6324-2019; Afzal, Wasif/C-8028-2013; ramentol,
+   enislay/T-1603-2017; Pimentel, Rita/A-3006-2019; Herrera,
+   Francisco/AFT-2050-2022
+OI Afzal, Wasif/0000-0003-0611-2655; Hatvani, Leo/0000-0003-0073-1674;
+   Pimentel, Rita/0000-0003-1506-4181; 
+FU VINNOVA through TESTOMAT project; uropean Union's Horizon 2020 research
+   and innovation program [871319]; ERCIM "Alain Bensoussan'' Fellowship
+   Programme; Spanish Government [TIN2017-89517-P]; H2020 - Industrial
+   Leadership [871319] Funding Source: H2020 - Industrial Leadership
+FX This work was supported by VINNOVA through TESTOMAT project, the
+   European Union's Horizon 2020 research and innovation program under
+   grant agreement No 871319 and ERCIM "Alain Bensoussan'' Fellowship
+   Programme. The authors are thankful to Dr. Ola Sellin at Bombardier
+   Transportation AB in Vasteras, Sweden for his valuable comments and
+   suggestions. Francisco Herrera would like to thank the Spanish
+   Government for its funding support (SMART-DaSCI project,
+   TIN2017-89517-P).
+NR 78
+TC 22
+Z9 26
+U1 1
+U2 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0952-1976
+EI 1873-6769
+J9 ENG APPL ARTIF INTEL
+JI Eng. Appl. Artif. Intell.
+PD OCT
+PY 2020
+VL 95
+AR 103878
+DI 10.1016/j.engappai.2020.103878
+PG 13
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Engineering, Multidisciplinary; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Automation & Control Systems; Computer Science; Engineering
+GA NP0LB
+UT WOS:000569874100017
+OA Green Published, Green Submitted, hybrid
+DA 2025-11-07
+ER
+
+PT J
+AU Deng, JH
+   Lu, L
+   Qiu, SJ
+AF Deng, Jiehan
+   Lu, Lu
+   Qiu, Shaojian
+TI Software defect prediction via LSTM
+SO IET SOFTWARE
+LA English
+DT Article
+DE feature extraction; learning (artificial intelligence); public domain
+   software; program diagnostics; program debugging; software quality;
+   recurrent neural nets; trees (mathematics); program abstract syntax
+   trees; AST node sequence; semantic features; contextual features; LSTM;
+   software quality; software lifecycle; software defect prediction
+   approaches; machine learning techniques; programming languages; human
+   languages; structural information; defective code; long short-term
+   memory network; open source projects; numerical vectors; word embedding
+   techniques
+AB Software quality plays an important role in the software lifecycle. Traditional software defect prediction approaches mainly focused on using hand-crafted features to detect defects. However, like human languages, programming languages contain rich semantic and structural information, and the cause of defective code is closely related to its context. Failing to catch this significant information, the performance of traditional approaches is far from satisfactory. In this study, the authors leveraged a long short-term memory (LSTM) network to automatically learn the semantic and contextual features from the source code. Specifically, they first extract the program's Abstract Syntax Trees (ASTs), which is made up of AST nodes, and then evaluate what and how much information they can preserve for several node types. They traverse the AST of each file and fed them into the LSTM network to automatically the semantic and contextual features of the program, which is then used to determine whether the file is defective. Experimental results on several opensource projects showed that the proposed LSTM method is superior to the state-of-the-art methods.
+C1 [Deng, Jiehan; Lu, Lu; Qiu, Shaojian] South China Univ Technol, Sch Comp Sci & Engn, Guangzhou, Peoples R China.
+C3 South China University of Technology
+RP Lu, L (corresponding author), South China Univ Technol, Sch Comp Sci & Engn, Guangzhou, Peoples R China.
+EM lul@scut.edu.cn
+OI Qiu, Shaojian/0000-0002-4138-2514
+FU National Nature Science Foundation of China [61370103]; Guangdong
+   Province Application Major Fund [2015B010131013]; Guangzhou Produce
+   Research Fund [201902020004]
+FX The authors thank the editors and anonymous reviewers for their
+   constructive comments and suggestions. This work was supported in part
+   by the National Nature Science Foundation of China under grant no.
+   61370103, the Guangdong Province Application Major Fund under grant no.
+   2015B010131013 and the Guangzhou Produce & Research Fund under grant no.
+   201902020004.
+NR 37
+TC 45
+Z9 52
+U1 1
+U2 30
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD AUG
+PY 2020
+VL 14
+IS 4
+BP 443
+EP 450
+DI 10.1049/iet-sen.2019.0149
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OP9QA
+UT WOS:000588424400012
+OA hybrid
+DA 2025-11-07
+ER
+
+PT J
+AU Lee, DG
+   Seo, YS
+AF Lee, Dong-Gun
+   Seo, Yeong-Seok
+TI Improving bug report triage performance using artificial intelligence
+   based document generation model
+SO HUMAN-CENTRIC COMPUTING AND INFORMATION SCIENCES
+LA English
+DT Article
+DE Bug report triage; Software defect prediction; Latent Dirichlet
+   Allocation; Artificial intelligence; Machine learning; Software
+   engineering
+ID CLASSIFICATION; KNN
+AB Artificial intelligence is one of the key technologies for progression to the fourth industrial revolution. This technology also has a significant impact on software professionals who are continuously striving to achieve high-quality software development by fixing various types of software bugs. During the software development and maintenance stages, software bugs are the major factor that can affect the cost and time of software delivery. To efficiently fix a software bug, open bug repositories are used for identifying bug reports and for classifying and prioritizing the reports for assignment to the most appropriate software developers based on their level of interest and expertise. Owing to a lack of resources such as time and manpower, this bug report triage process is extremely important in software development. To improve the bug report triage performance, numerous studies have focused on a latent Dirichlet allocation (LDA) using the k-nearest neighbors or a support vector machine. Although the existing approaches have improved the accuracy of a bug triage, they often cause conflicts between the combined techniques and generate incorrect triage results. In this study, we propose a method for improving the bug report triage performance using multiple LDA-based topic sets by improving the LDA. The proposed method improves the existing topic sets of the LDA by building two adjunct topic sets. In our experiment, we collected bug reports from a popular bug tracking system, Bugzilla, as well as Android bug reports, to evaluate the proposed method and demonstrate the achievement of the following two goals: increase the bug report triage accuracy, and satisfy the compatibility with other state-of-the-art approaches.
+C1 [Lee, Dong-Gun; Seo, Yeong-Seok] Yeungnam Univ, Dept Comp Engn, 280 Daehak Ro, Gyongsan 38541, Gyeongbuk, South Korea.
+C3 Yeungnam University
+RP Seo, YS (corresponding author), Yeungnam Univ, Dept Comp Engn, 280 Daehak Ro, Gyongsan 38541, Gyeongbuk, South Korea.
+EM ysseo@yu.ac.kr
+RI ; Seo, Yeong-Seok/AAF-2849-2019
+OI Lee, Dong-Gun/0000-0001-6792-4572; Seo, Yeong-Seok/0000-0002-5319-7674
+FU National Research Foundation of Korea (NRF) - Korea government (MSIT)
+   [NRF-2017R1C1B5018295]
+FX This work was supported by the National Research Foundation of Korea
+   (NRF) grant funded by the Korea government (MSIT) (No.
+   NRF-2017R1C1B5018295).
+NR 73
+TC 25
+Z9 29
+U1 0
+U2 36
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+EI 2192-1962
+J9 HUM-CENT COMPUT INFO
+JI Human-centric Comput. Inf. Sci.
+PD JUN 16
+PY 2020
+VL 10
+IS 1
+AR 26
+DI 10.1186/s13673-020-00229-7
+PG 22
+WC Computer Science, Information Systems
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LY4TX
+UT WOS:000540523300001
+OA hybrid
+DA 2025-11-07
+ER
+
+PT C
+AU Nguyen, DP
+   Maag, S
+AF Duyen Phuc Nguyen
+   Maag, Stephane
+BE Vansinderen, M
+   Fill, HG
+   Maciaszek, L
+TI Codeless Web Testing using Selenium and Machine Learning
+SO ICSOFT: PROCEEDINGS OF THE 15TH INTERNATIONAL CONFERENCE ON SOFTWARE
+   TECHNOLOGIES
+LA English
+DT Proceedings Paper
+CT 15th International Conference on Software Technologies (ICSOFT)
+CY JUL 07-09, 2020
+CL ELECTR NETWORK
+DE Codeless Testing; Web Testing; Automation Testing; Selenium; Machine
+   Learning; SVM
+AB Complexity of web systems lead to development processes always more tough to test. Testing phases are crucial in software and system engineering and are known to be very costly. While automated testing methods appear to take over the role of the human testers, the issues of reliability and the capability of the testing method still need to be solved. In our paper, we focus on the automation of functional tests of websites. A single web page may contain a huge set of important functionalities leading to the execution of critical web service operations. Besides, testing all of these functionalities implemented in a web page service is highly complex. Two current popular research areas for automation web-based testing are Codeless Functional Test Automation and Machine Learning/Artificial Intelligence (ML/AI) in test automation. We therefore define and implement a framework to figure out how to automate the web service product under test, the machine can detect or predict the change and adapt those changes to suitable generic test cases. In our work, we examine on Selenium and the benefits of using machine learning in automated web application testing.
+C1 [Duyen Phuc Nguyen; Maag, Stephane] Inst Polytech Paris, CNRS, Telecom SudParis, Samovar, Paris, France.
+C3 Centre National de la Recherche Scientifique (CNRS); IMT - Institut
+   Mines-Telecom; Institut Polytechnique de Paris; Telecom SudParis
+RP Nguyen, DP (corresponding author), Inst Polytech Paris, CNRS, Telecom SudParis, Samovar, Paris, France.
+NR 23
+TC 7
+Z9 8
+U1 2
+U2 20
+PU SCITEPRESS
+PI SETUBAL
+PA AV D MANUELL, 27A 2 ESQ, SETUBAL, 2910-595, PORTUGAL
+BN 978-989-758-443-5
+PY 2020
+BP 51
+EP 60
+DI 10.5220/0009885400510060
+PG 10
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BQ7AZ
+UT WOS:000614139800004
+OA Green Submitted, gold
+DA 2025-11-07
+ER
+
+PT J
+AU Khatibsyarbini, M
+   Isa, MA
+   Jawawi, DNA
+   Hamed, HNA
+   Suffian, MDM
+AF Khatibsyarbini, Muhammad
+   Isa, Mohd Adham
+   Jawawi, Dayang N. A.
+   Hamed, Haza Nuzly Abdull
+   Suffian, Muhammad Dhiauddin Mohamed
+TI Test Case Prioritization Using Firefly Algorithm for Software Testing
+SO IEEE ACCESS
+LA English
+DT Article
+DE Firefly Algorithm; metaheuristic; software engineering; artificial
+   intelligence; search-based software testing; test case prioritization
+ID GENERATION
+AB Software testing is a vital and complex part of the software development life cycle. Optimization of software testing is still a major challenge, as prioritization of test cases remains unsatisfactory in terms of Average Percentage of Faults Detected (APFD) and time execution performance. This is attributed to a large search space to find an optimal ordering of test cases. In this paper, we have proposed an approach to prioritize test cases optimally using Firefly Algorithm. To optimize the ordering of test cases, we applied Firefly Algorithm with fitness function defined using a similarity distance model. Experiments were carried on three benchmark programs with test suites extracted from Software-artifact Infrastructure Repository (SIR). Our Test Case Prioritization (TCP) technique using Firefly Algorithm with similarity distance model demonstrated better if not equal in terms of APFD and time execution performance compared to existing works. Overall APFD results indicate that Firefly Algorithm is a promising competitor in TCP applications.
+C1 [Khatibsyarbini, Muhammad; Isa, Mohd Adham; Jawawi, Dayang N. A.; Hamed, Haza Nuzly Abdull] Univ Teknol Malaysia, Fac Engn, Sch Comp, Johor Baharu 81310, Malaysia.
+   [Suffian, Muhammad Dhiauddin Mohamed] MIMOS Technol Solut Sdn Bhd, Business Solut & Serv, Kuala Lumpur 57000, Malaysia.
+C3 Universiti Teknologi Malaysia; MIMOS Berhad
+RP Khatibsyarbini, M (corresponding author), Univ Teknol Malaysia, Fac Engn, Sch Comp, Johor Baharu 81310, Malaysia.
+EM fkmuhammad4@gmail.com
+RI Jawawi, Dayang/A-7251-2013; Hamed, Haza/O-3008-2013; Khatibsyarbini,
+   Muhammad/GVU-4024-2022; Isa, Mohd/M-6026-2019; Suffian,
+   Muhammad/IMB-2035-2023
+OI Khatibsyarbini, Muhammad/0000-0001-6839-1755
+FU Ministry of Education Malaysia [5F069]; Universiti Teknologi Malaysia
+   [01M55]
+FX This work was supported in part by the Fundamental Research Grant
+   Scheme, vote number 5F069, under the Ministry of Education Malaysia, and
+   in part by the Research University Grant Scheme, vote number 01M55,
+   under Universiti Teknologi Malaysia.
+NR 43
+TC 30
+Z9 37
+U1 1
+U2 22
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2019
+VL 7
+BP 132360
+EP 132373
+DI 10.1109/ACCESS.2019.2940620
+PG 14
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA JQ0FX
+UT WOS:000498631900001
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Kiran, A
+   Butt, WH
+   Anwar, MW
+   Azam, F
+   Maqbool, B
+AF Kiran, Ayesha
+   Butt, Wasi Haider
+   Anwar, Muhammad Waseem
+   Azam, Farooque
+   Maqbool, Bilal
+TI A Comprehensive Investigation of Modern Test Suite Optimization Trends,
+   Tools and Techniques
+SO IEEE ACCESS
+LA English
+DT Article
+DE Software testing; test suite optimization; single objective
+   optimization; multi-objective optimization
+ID GENETIC ALGORITHM; REGRESSION; SELECTION; GENERATION; PRIORITIZATION;
+   MINIMIZATION
+AB Software testing is an important but expensive activity of software development life cycle, as it accounts for more than 52% of entire development cost. Testing requires the execution of all possible test cases in order to find the defects in the software. Therefore, different test suite optimization approaches like the genetic algorithm and the greedy algorithm, etc., are widely used to select the representative test suite without compromising the effectiveness. Test suite optimization is frequently researched to enhance its competences but there is no study published until now that analyzes the latest developments from 2016 to 2019. Hence, in this article, we systematically examine the state-of-the-art optimizations' approaches, tools, and supporting platforms. Principally, we conducted a systematic literature review (SLR) to inspect and examine 58 selected studies that are published during 2016-2019. Subsequently, the selected researches are grouped into five main categories, i.e., greedy algorithm (seven studies), meta-heuristic (28 studies), hybrid (six studies), clustering (five studies), and general (12 studies). Finally, 32 leading tools have been presented, i.e., existing tools (25 tools) and proposed/developed tools (seven tools) along 14 platform supports. Furthermore, it is noted that several approaches aim at solving the single-objective optimization problem. Therefore, researchers should focus on dealing with the multi-objective problem, as multi-objective versions outperform the single-objective ones. Moreover, less attention has been given to clustering-based techniques. Thus, we recommend exploring the machine learning and artificial intelligence-based optimization approaches in the future. A broad exploration of tools and techniques, in this article, will help researchers, practitioners, and developers to opt for adequate techniques, tools, or platforms as per requirements.
+C1 [Kiran, Ayesha; Butt, Wasi Haider; Anwar, Muhammad Waseem; Azam, Farooque; Maqbool, Bilal] NUST, Coll Elect & Mech Engn, Dept Comp & Software Engn, Islamabad 44000, Pakistan.
+C3 National University of Sciences & Technology - Pakistan
+RP Anwar, MW (corresponding author), NUST, Coll Elect & Mech Engn, Dept Comp & Software Engn, Islamabad 44000, Pakistan.
+EM waseemanwar@ceme.nust.edu.pk
+RI Butt, Wasi Haider/AAH-8517-2019; Anwar, Muhammad/KTH-9262-2024; Kiran,
+   Ayesha/AAC-2660-2020; Azam, Farooque/AAB-4035-2021; Anwar, Muhammad
+   Waseem/KTH-9262-2024
+OI KIRAN, Ayesha/0009-0003-2787-6344; Azam, Farooque/0000-0002-7421-7400;
+   Butt, Wasi Haider/0000-0002-1347-3662; Anwar, Muhammad
+   Waseem/0000-0002-1193-5683
+NR 80
+TC 21
+Z9 21
+U1 0
+U2 16
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2019
+VL 7
+BP 89093
+EP 89117
+DI 10.1109/ACCESS.2019.2926384
+PG 25
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA IK8AW
+UT WOS:000476816300003
+OA gold
+DA 2025-11-07
+ER
+
+PT C
+AU Poth, A
+   Beck, Q
+   Riel, A
+AF Poth, Alexander
+   Beck, Quirin
+   Riel, Andreas
+BE Walker, A
+   OConnor, RV
+   Messnarz, R
+TI Artificial Intelligence Helps Making Quality Assurance Processes Leaner
+SO SYSTEMS, SOFTWARE AND SERVICES PROCESS IMPROVEMENT (EUROSPI 2019)
+SE Communications in Computer and Information Science
+LA English
+DT Proceedings Paper
+CT 26th Systems, Software and Services Process Improvement (EuroSPI)
+   Conference
+CY SEP 18-20, 2019
+CL Edinburgh, SCOTLAND
+DE Artificial Intelligence (AI); Machine Learning (ML); Agile software
+   development; Quality Assurance (QA); Testing
+ID NEURAL-NETWORKS
+AB Lean processes focus on doing only necessary things in an efficient way. Artificial intelligence and Machine Learning offer new opportunities to optimizing processes. The presented approach demonstrates an improvement of the test process by using Machine Learning as a support tool for test management. The scope is the semi-automation of the selection of regression tests. The proposed lean testing process uses Machine Learning as a supporting machine, while keeping the human test manager in charge of the adequate test case selection.
+C1 [Poth, Alexander; Beck, Quirin] Volkswagen AG, Berliner Ring 2, D-38436 Wolfsburg, Germany.
+   [Riel, Andreas] Grenoble Alps Univ, F-38031 Grenoble, France.
+C3 Volkswagen; Volkswagen Germany; Communaute Universite Grenoble Alpes;
+   Universite Grenoble Alpes (UGA)
+RP Poth, A (corresponding author), Volkswagen AG, Berliner Ring 2, D-38436 Wolfsburg, Germany.
+EM alexander.poth@volkswagen.de; quirin.beck@volkswagen.de;
+   andreas.riel@grenoble-inp.fr
+RI Poth, Alexander/N-3762-2019; Riel, Andreas/AAC-9491-2019
+OI Riel, Andreas/0000-0001-9859-019X; 
+NR 17
+TC 7
+Z9 7
+U1 2
+U2 14
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1865-0929
+EI 1865-0937
+BN 978-3-030-28005-5; 978-3-030-28004-8
+J9 COMM COM INF SC
+PY 2019
+VL 1060
+BP 722
+EP 730
+DI 10.1007/978-3-030-28005-5_56
+PG 9
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BP6WQ
+UT WOS:000560814000056
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT J
+AU Vinayakumar, R
+   Alazab, M
+   Soman, KP
+   Poornachandran, P
+   Venkatraman, S
+AF Vinayakumar, R.
+   Alazab, Mamoun
+   Soman, K. P.
+   Poornachandran, Prabaharan
+   Venkatraman, Sitalakshmi
+TI Robust Intelligent Malware Detection Using Deep Learning
+SO IEEE ACCESS
+LA English
+DT Article
+DE Cyber security; cybercrime; malware detection; static and dynamic
+   analysis; artificial intelligence; machine learning; deep learning;
+   image processing; scalable and hybrid framework
+AB Security breaches due to attacks by malicious software (malware) continue to escalate posing a major security concern in this digital age. With many computer users, corporations, and governments affected due to an exponential growth in malware attacks, malware detection continues to be a hot research topic. Current malware detection solutions that adopt the static and dynamic analysis of malware signatures and behavior patterns are time consuming and have proven to be ineffective in identifying unknown malwares in real-time. Recent malwares use polymorphic, metamorphic, and other evasive techniques to change the malware behaviors quickly and to generate a large number of new malwares. Such new malwares are predominantly variants of existing malwares, and machine learning algorithms (MLAs) are being employed recently to conduct an effective malware analysis. However, such approaches are time consuming as they require extensive feature engineering, feature learning, and feature representation. By using the advanced MLAs such as deep learning, the feature engineering phase can be completely avoided. Recently reported research studies in this direction show the performance of their algorithms with a biased training data, which limits their practical use in real-time situations. There is a compelling need to mitigate bias and evaluate these methods independently in order to arrive at a new enhanced method for effective zero-day malware detection. To fill the gap in the literature, this paper, first, evaluates the classical MLAs and deep learning architectures for malware detection, classification, and categorization using different public and private datasets. Second, we remove all the dataset bias removed in the experimental analysis by having different splits of the public and private datasets to train and test the model in a disjoint way using different timescales. Third, our major contribution is in proposing a novel image processing technique with optimal parameters for MLAs and deep learning architectures to arrive at an effective zero-day malware detection model. A comprehensive comparative study of our model demonstrates that our proposed deep learning architectures outperform classical MLAs. Our novelty in combining visualization and deep learning architectures for static, dynamic, and image processing-based hybrid approach applied in a big data environment is the first of its kind toward achieving robust intelligent zero-day malware detection. Overall, this paper paves way for an effective visual detection of malware using a scalable and hybrid deep learning framework for real-time deployments.
+C1 [Vinayakumar, R.; Soman, K. P.] Amrita Vishwa Vidyapeetham, Ctr Computat Engn & Networking CEN, Amrita Sch Engn, Coimbatore 641112, Tamil Nadu, India.
+   [Alazab, Mamoun] Charles Darwin Univ, Coll Engn IT & Environm, Casuarina, NT 0810, Australia.
+   [Poornachandran, Prabaharan] Amrita Vishwa Vidyapeetham, Ctr Cyber Secur Syst & Networks, Amrita Sch Engn, Amritapuri 690525, India.
+   [Venkatraman, Sitalakshmi] Melbourne Polytech, Dept Informat Technol, Prahran Campus, Melbourne, Vic 3181, Australia.
+C3 Amrita Vishwa Vidyapeetham; Amrita Vishwa Vidyapeetham Coimbatore;
+   Charles Darwin University; Amrita Vishwa Vidyapeetham; Amrita Vishwa
+   Vidyapeetham Amritapuri
+RP Vinayakumar, R (corresponding author), Amrita Vishwa Vidyapeetham, Ctr Computat Engn & Networking CEN, Amrita Sch Engn, Coimbatore 641112, Tamil Nadu, India.
+EM vinayakumarr77@gmail.com
+RI Ravi, Vinayakumar/L-4202-2018; Alazab, Mamoun/AAG-6684-2021
+OI Ravi, Vinayakumar/0000-0001-6873-6469; Alazab,
+   Mamoun/0000-0002-1928-3704; , Prabaharan/0000-0002-8812-0474
+FU Department of Corporate and Information Services, Northern Territory
+   Government of Australia; Paramount Computer Systems; Lakhshya Cyber
+   Security Labs
+FX This work was supported by the Department of Corporate and Information
+   Services, Northern Territory Government of Australia, the Paramount
+   Computer Systems, and Lakhshya Cyber Security Labs.
+NR 45
+TC 257
+Z9 307
+U1 1
+U2 58
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2019
+VL 7
+BP 46717
+EP 46738
+DI 10.1109/ACCESS.2019.2906934
+PG 22
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA HW1YU
+UT WOS:000466480500001
+OA gold
+DA 2025-11-07
+ER
+
+EF

@@ -1,0 +1,904 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ogrizovic, M
+   Draskovic, D
+   Bojic, D
+AF Ogrizovic, Mihajlo
+   Draskovic, Drazen
+   Bojic, Dragan
+TI Quality assurance strategies for machine learning applications in big
+   data analytics: an overview
+SO JOURNAL OF BIG DATA
+LA English
+DT Article
+DE Quality assurance; Machine learning; Big data; Model quality; Data
+   quality; ML pipeline quality; Software in production; Integration and
+   system testing
+ID PREDICTION
+AB Machine learning (ML) models have gained significant attention in a variety of applications, from computer vision to natural language processing, and are almost always based on big data. There are a growing number of applications and products with built-in machine learning models, and this is the area where software engineering, artificial intelligence and data science meet. The requirement for a system to operate in a real-world environment poses many challenges, such as how to design for wrong predictions the model may make; How to assure safety and security despite possible mistakes; which qualities matter beyond a model's prediction accuracy; How can we identify and measure important quality requirements, including learning and inference latency, scalability, explainability, fairness, privacy, robustness, and safety. It has become crucial to test thoroughly these models to assess their capabilities and potential errors. Existing software testing methods have been adapted and refined to discover faults in machine learning and deep learning models. This paper covers a taxonomy, a methodologically uniform presentation of all presented solutions to the aforementioned issues, as well as conclusions about possible future development trends. The main contributions of this paper are a classification that closely follows the structure of the ML-pipeline, a precisely defined role of each team member within that pipeline, an overview of trends and challenges in the combination of ML and big data analytics, with uses in the domains of industry and education.
+C1 [Ogrizovic, Mihajlo; Draskovic, Drazen; Bojic, Dragan] Univ Belgrade, Sch Elect Engn, Dept Comp Sci & Informat Technol, Belgrade, Serbia.
+C3 University of Belgrade
+RP Ogrizovic, M (corresponding author), Univ Belgrade, Sch Elect Engn, Dept Comp Sci & Informat Technol, Belgrade, Serbia.
+EM ogrizovic@etf.bg.ac.rs
+RI Draskovic, Drazen/U-1113-2018
+OI Draskovic, Drazen/0000-0003-2564-4526; Bojic, Dragan/0009-0001-3025-5886
+FU Ministry of Science, Technological Development and Innovation of the
+   Republic of Serbia; Science Fund of the Republic of Serbia [11113]; 
+   [451-03-65/2024-03/200103]
+FX This research was supported by the Science Fund of the Republic of
+   Serbia, Grant no. 11113, Software for Text Offences Prevention in
+   Serbian: Al-driven Hate Speech Detection-STOP. This work was financially
+   supported by the Ministry of Science, Technological Development and
+   Innovation of the Republic of Serbia under contract number:
+   451-03-65/2024-03/200103.
+NR 162
+TC 6
+Z9 10
+U1 6
+U2 17
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2196-1115
+J9 J BIG DATA-GER
+JI J. Big Data
+PD OCT 30
+PY 2024
+VL 11
+IS 1
+AR 156
+DI 10.1186/s40537-024-01028-y
+PG 48
+WC Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA K6M7H
+UT WOS:001345001500001
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Steidl, M
+   Felderer, M
+   Ramler, R
+AF Steidl, Monika
+   Felderer, Michael
+   Ramler, Rudolf
+TI The pipeline for the continuous development of artificial intelligence
+   models-Current state of research and practice
+SO JOURNAL OF SYSTEMS AND SOFTWARE
+LA English
+DT Article
+DE Continuous development of AI; Continuous (end-to-end) lifecycle pipeline
+   for AI; MLOps; CI; CD for AI; DevOps for AI; Multivocal literature
+   review
+ID LIFE-CYCLE; MACHINE; CHALLENGES
+AB Companies struggle to continuously develop and deploy Artificial Intelligence (AI) models to complex production systems due to AI characteristics while assuring quality. To ease the development process, continuous pipelines for AI have become an active research area where consolidated and in-depth analysis regarding the terminology, triggers, tasks, and challenges is required.This paper includes a Multivocal Literature Review (MLR) where we consolidated 151 relevant formal and informal sources. In addition, nine-semi structured interviews with participants from academia and industry verified and extended the obtained information. Based on these sources, this paper provides and compares terminologies for Development and Operations (DevOps) and Continuous Integration (CI)/Continuous Delivery (CD) for AI, Machine Learning Operations (MLOps), (end-to-end) lifecycle management, and Continuous Delivery for Machine Learning (CD4ML). Furthermore, the paper provides an aggregated list of potential triggers for reiterating the pipeline, such as alert systems or schedules. In addition, this work uses a taxonomy creation strategy to present a consolidated pipeline comprising tasks regarding the continuous development of AI. This pipeline consists of four stages: Data Handling, Model Learning, Software Development and System Operations. Moreover, we map challenges regarding pipeline implementation, adaption, and usage for the continuous development of AI to these four stages.(c) 2023 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+C1 [Steidl, Monika; Felderer, Michael] Univ Innsbruck, A-6020 Innsbruck, Austria.
+   [Felderer, Michael] Blekinge Inst Technol, S-37179 Karlkskrona, Sweden.
+   [Ramler, Rudolf] Software Competence Ctr Hagenberg GmbH SCCH, A-4232 Hagenberg, Austria.
+C3 University of Innsbruck; Blekinge Institute Technology; Softwarepark
+   Hagenberg
+RP Steidl, M (corresponding author), Univ Innsbruck, A-6020 Innsbruck, Austria.
+EM monika.steidl@uibk.ac.at; michael.felderer@uibk.ac.at;
+   Rudolf.Ramler@scch.at
+RI ; Felderer, Michael/AAF-4909-2020
+OI Steidl, Monika/0000-0002-3410-7637; Felderer,
+   Michael/0000-0003-3818-4442; 
+FU Austrian Research Promotion Agency (FFG) [888127]; COMET competence
+   center SCCH/INTEGRATE, Austria [865891, 892418]
+FX This work was supported by the Austrian Research Promotion Agency (FFG)
+   in the frame of the project ConTest [888127] and the COMET competence
+   center SCCH/INTEGRATE, Austria [865891, 892418] . We also thank all
+   interview participants for their valuable input and feedback.
+NR 200
+TC 40
+Z9 47
+U1 1
+U2 36
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0164-1212
+EI 1873-1228
+J9 J SYST SOFTWARE
+JI J. Syst. Softw.
+PD MAY
+PY 2023
+VL 199
+AR 111615
+DI 10.1016/j.jss.2023.111615
+EA JAN 2023
+PG 26
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA D3TJ6
+UT WOS:000967982100001
+OA Green Submitted, hybrid
+DA 2025-11-07
+ER
+
+PT J
+AU Cheng, KS
+   Huang, PC
+   Ahn, TH
+   Song, M
+AF Cheng, Kwok Sun
+   Huang, Pei-Chi
+   Ahn, Tae-Hyuk
+   Song, Myoungkyu
+TI Tool Support for Improving Software Quality in Machine Learning Programs
+SO INFORMATION
+LA English
+DT Article
+DE software quality; anomaly detection; quality validation; machine
+   learning applications
+ID ARTIFICIAL-INTELLIGENCE AI; CANCER
+AB Machine learning (ML) techniques discover knowledge from large amounts of data. Modeling in ML is becoming essential to software systems in practice. The accuracy and efficiency of ML models have been focused on ML research communities, while there is less attention on validating the qualities of ML models. Validating ML applications is a challenging and time-consuming process for developers since prediction accuracy heavily relies on generated models. ML applications are written by relatively more data-driven programming based on the black box of ML frameworks. All of the datasets and the ML application need to be individually investigated. Thus, the ML validation tasks take a lot of time and effort. To address this limitation, we present a novel quality validation technique that increases the reliability for ML models and applications, called MLVal. Our approach helps developers inspect the training data and the generated features for the ML model. A data validation technique is important and beneficial to software quality since the quality of the input data affects speed and accuracy for training and inference. Inspired by software debugging/validation for reproducing the potential reported bugs, MLVal takes as input an ML application and its training datasets to build the ML models, helping ML application developers easily reproduce and understand anomalies in the ML application. We have implemented an Eclipse plugin for MLVal that allows developers to validate the prediction behavior of their ML applications, the ML model, and the training data on the Eclipse IDE. In our evaluation, we used 23,500 documents in the bioengineering research domain. We assessed the ability of the MLVal validation technique to effectively help ML application developers: (1) investigate the connection between the produced features and the labels in the training model, and (2) detect errors early to secure the quality of models from better data. Our approach reduces the cost of engineering efforts to validate problems, improving data-centric workflows of the ML application development.
+C1 [Cheng, Kwok Sun; Huang, Pei-Chi; Song, Myoungkyu] Univ Nebraska Omaha, Dept Comp Sci, Omaha, NE 68182 USA.
+   [Ahn, Tae-Hyuk] St Louis Univ, Dept Comp Sci, St Louis, MO 63103 USA.
+C3 University of Nebraska System; University of Nebraska Omaha; Washington
+   University (WUSTL); Saint Louis University
+RP Song, M (corresponding author), Univ Nebraska Omaha, Dept Comp Sci, Omaha, NE 68182 USA.
+EM myoungkyu@unomaha.edu
+RI ; Huang, Pei-Chi/J-9523-2019
+OI Huang, Pei-Chi/0000-0002-7163-2772; Ahn, Tae-Hyuk/0000-0002-7281-9459
+FU NSF [OIA-1920954]
+FX This work was partially supported by NSF Grant No. OIA-1920954.
+NR 56
+TC 2
+Z9 2
+U1 2
+U2 8
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2078-2489
+J9 INFORMATION
+JI Information
+PD JAN
+PY 2023
+VL 14
+IS 1
+AR 53
+DI 10.3390/info14010053
+PG 20
+WC Computer Science, Information Systems
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA 7Z2KL
+UT WOS:000915392600001
+OA Green Submitted, gold
+DA 2025-11-07
+ER
+
+PT J
+AU Filus, K
+   Domanska, J
+AF Filus, Katarzyna
+   Domanska, Joanna
+TI Software vulnerabilities in TensorFlow-based deep learning applications
+SO COMPUTERS & SECURITY
+LA English
+DT Article
+DE Software vulnerability; TensorFlow; Deep learning; Security; Static
+   analysis
+ID METRICS
+AB Usage of Deep Learning (DL) methods is ubiquitous. It is common in the DL/Artificial Intelligence domain to use 3rd party software. TensorFlow is one of the most popular Machine Learning (ML) platforms. Every software product is a subject to security failures which often result from software vulnerabilities. In this paper, we focus on threats related to 6 common types of threats in TensorFlow implementation. We iden-tify them using Common Weakness Enumeration. We analyze more than 100 vulnerability instances. We focus on vulnerabilities' severity, impact on confidentiality, integrity and availability, as well as possible results of exploitation. We also use Orthogonal Defect Classification (ODC). The results show that a ma-jority of vulnerabilities are caused by missing/incorrect checking statements, however some fixes require more advanced algorithmic changes. Static Analysis Tools tested in our study show low effectiveness in detecting known vulnerabilities in TensorFlow, but we provide some recommendations based on the ob-tained alerts to improve overall code quality. Further analysis of vulnerabilities helped us to understand and characterize different vulnerability types and provide a set of observations. We believe that these observations can be useful for the creators of new static analysis tools as a source of inspiration and to build the test cases. We also aim to draw the programmers' attention to the prevalence of vulnerabilities in deep learning applications and a low effectiveness of automatic tools to find software vulnerabilities in such products.(c) 2022 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ )
+C1 [Filus, Katarzyna; Domanska, Joanna] Polish Acad Sci IITiS PAN, Inst Theoret & Appl Informat, ul Baltycka 5, PL-44100 Gliwice, Poland.
+C3 Polish Academy of Sciences; Institute of Theoretical & Applied
+   Informatics of the Polish Academy of Sciences
+RP Filus, K (corresponding author), Polish Acad Sci IITiS PAN, Inst Theoret & Appl Informat, ul Baltycka 5, PL-44100 Gliwice, Poland.
+EM kfilus@iitis.pl; joanna@iitis.pl
+RI ; Domańska, Joanna/J-8501-2013
+OI Domanska, Joanna/0000-0002-1935-8358; Filus,
+   Katarzyna/0000-0003-1303-9230; 
+NR 49
+TC 17
+Z9 19
+U1 0
+U2 15
+PU ELSEVIER ADVANCED TECHNOLOGY
+PI OXFORD
+PA OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON,
+   OXFORD OX5 1GB, OXON, ENGLAND
+SN 0167-4048
+EI 1872-6208
+J9 COMPUT SECUR
+JI Comput. Secur.
+PD JAN
+PY 2023
+VL 124
+AR 102948
+DI 10.1016/j.cose.2022.102948
+EA OCT 2022
+PG 13
+WC Computer Science, Information Systems
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 6D2LT
+UT WOS:000882529500009
+OA hybrid
+DA 2025-11-07
+ER
+
+PT J
+AU Zhu, H
+   Bayley, I
+AF Zhu, Hong
+   Bayley, Ian
+TI Discovering boundary values of feature-based machine learning
+   classifiers through exploratory datamorphic testing
+SO JOURNAL OF SYSTEMS AND SOFTWARE
+LA English
+DT Article
+DE Artificial intelligence; Software testing; Automation of software test;
+   Datamorphic testing; Exploratory testing; Test strategies
+ID SOFTWARE; STRATEGY
+AB Testing has been widely recognised as difficult for AI applications. This paper proposes a set of testing strategies for testing machine learning applications in the framework of the datamorphism testing methodology. In these strategies, testing aims at exploring the data space of a classification or clustering application to discover the boundaries between classes that the machine learning application defines. This enables the tester to understand precisely the behaviour and function of the software under test. In the paper, three variants of exploratory strategies are presented with the algorithms implemented in the automated datamorphic testing tool Morphy. The correctness of these algorithms are formally proved. Their capability and cost of discovering borders between classes are evaluated via a set of controlled experiments with manually designed subjects and a set of case studies with real machine learning models. (C)& nbsp;2022 Elsevier Inc. All rights reserved.
+C1 [Zhu, Hong; Bayley, Ian] Oxford Brookes Univ, Sch Engn Comp & Math, Oxford OX33 1HX, England.
+C3 Oxford Brookes University
+RP Zhu, H (corresponding author), Oxford Brookes Univ, Sch Engn Comp & Math, Oxford OX33 1HX, England.
+EM hzhu@brookes.ac.uk; ibayley@brookes.ac.uk
+RI Zhu, Hong/B-3231-2011
+FU Oxford Brookes University, UK
+FX The work reported in this paper is partially supported by the 2020
+   Research Excellence Award of Oxford Brookes University, UK. The authors
+   are grateful to the members of the AI Software Engineering research
+   reading group at the School of Engineering, Computing and Mathematics,
+   Oxford Brookes University, for their comments on the drafts of the
+   paper, and discussions at the reading groups activities.
+NR 92
+TC 4
+Z9 4
+U1 0
+U2 15
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0164-1212
+EI 1873-1228
+J9 J SYST SOFTWARE
+JI J. Syst. Softw.
+PD MAY
+PY 2022
+VL 187
+AR 111231
+DI 10.1016/j.jss.2022.111231
+EA FEB 2022
+PG 26
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 0M8TE
+UT WOS:000782420300008
+OA gold
+DA 2025-11-07
+ER
+
+PT J
+AU Myllyaho, L
+   Raatikainen, M
+   Männistö, T
+   Mikkonen, T
+   Nurminen, JK
+AF Myllyaho, Lalli
+   Raatikainen, Mikko
+   Mannisto, Tomi
+   Mikkonen, Tommi
+   Nurminen, Jukka K.
+TI Systematic literature review of validation methods for AI systems
+SO JOURNAL OF SYSTEMS AND SOFTWARE
+LA English
+DT Review
+DE Artificial intelligence; Machine learning; Validation; Testing; V&V;
+   Systematic literature review
+ID SOFTWARE PRODUCT LINES
+AB Context: Artificial intelligence (AI) has made its way into everyday activities, particularly through new techniques such as machine learning (ML). These techniques are implementable with little domain knowledge. This, combined with the difficulty of testing AI systems with traditional methods, has made system trustworthiness a pressing issue.
+   Objective: This paper studies the methods used to validate practical AI systems reported in the literature. Our goal is to classify and describe the methods that are used in realistic settings to ensure the dependability of AI systems.
+   Method: A systematic literature review resulted in 90 papers. Systems presented in the papers were analysed based on their domain, task, complexity, and applied validation methods.
+   Results: The validation methods were synthesized into a taxonomy consisting of trial, simulation, model-centred validation, and expert opinion. Failure monitors, safety channels, redundancy, voting, and input and output restrictions are methods used to continuously validate the systems after deployment.
+   Conclusions: Our results clarify existing strategies applied to validation. They form a basis for the synthesization, assessment, and refinement of AI system validation in research and guidelines for validating individual systems in practice. While various validation strategies have all been relatively widely applied, only few studies report on continuous validation. (C) 2021 The Author(s). Published by Elsevier Inc.
+C1 [Myllyaho, Lalli; Raatikainen, Mikko; Mannisto, Tomi; Mikkonen, Tommi; Nurminen, Jukka K.] Univ Helsinki, Helsinki, Finland.
+C3 University of Helsinki
+RP Myllyaho, L (corresponding author), Univ Helsinki, Helsinki, Finland.
+EM lalli.myllyaho@helsinki.fi
+RI ; Männistö, Tomi/ABC-7781-2021; Raatikainen, Mikko/E-8680-2012;
+   Mannisto, Tomi/I-3999-2013; Myllyaho, Lalli/HKF-1303-2023; NURMINEN,
+   Jukka/JBJ-0709-2023
+OI Raatikainen, Mikko/0000-0002-2410-0722; Mannisto,
+   Tomi/0000-0001-7470-5183; Nurminen, Jukka/0000-0001-5083-1927; Myllyaho,
+   Lalli/0000-0002-0953-9825; Mikkonen, Tommi/0000-0002-8540-9918; 
+FU Business Finland [ITEA-201918022-IVVES]
+FX This work was labelled by ITEA3 and funded by local authorities
+   (Business Finland) under grant agreement "ITEA-201918022-IVVES''
+   https://ivves.eu/.
+NR 26
+TC 55
+Z9 64
+U1 7
+U2 35
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0164-1212
+EI 1873-1228
+J9 J SYST SOFTWARE
+JI J. Syst. Softw.
+PD NOV
+PY 2021
+VL 181
+AR 111050
+DI 10.1016/j.jss.2021.111050
+EA AUG 2021
+PG 22
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UO6EH
+UT WOS:000694786100003
+OA Green Submitted, hybrid
+DA 2025-11-07
+ER
+
+PT C
+AU Borg, M
+AF Borg, Markus
+BE Winkler, D
+   Biffl, S
+   Mendez, D
+   Wimmer, M
+   Bergsmann, J
+TI The AIQ Meta-Testbed: Pragmatically Bridging Academic AI Testing and
+   Industrial Q Needs
+SO SOFTWARE QUALITY: FUTURE PERSPECTIVES ON SOFTWARE ENGINEERING QUALITY,
+   SWQD 2021
+SE Lecture Notes in Business Information Processing
+LA English
+DT Proceedings Paper
+CT 13th International Conference on Software Quality Days (SWQD)
+CY JAN 19-21, 2021
+CL Vienna, AUSTRIA
+SP Software Qual Lab GmbH, Vienna Univ Technol, Inst Informat Syst Engn, Blekinge Inst Technol, Johannes Kepler Univ Linz
+DE Artificial intelligence; Machine learning; Quality assurance; Software
+   testing; Testbed
+ID ARTIFICIAL-INTELLIGENCE; SOFTWARE; QUALITY
+AB AI solutions seem to appear in any and all application domains. As AI becomes more pervasive, the importance of quality assurance increases. Unfortunately, there is no consensus on what artificial intelligence means and interpretations range from simple statistical analysis to sentient humanoid robots. On top of that, quality is a notoriously hard concept to pinpoint. What does this mean for AI quality? In this paper, we share our working definition and a pragmatic approach to address the corresponding quality assurance with a focus on testing. Finally, we present our ongoing work on establishing the AIQ Meta-Testbed.
+C1 [Borg, Markus] RISE Res Inst Sweden AB, Lund, Sweden.
+   [Borg, Markus] Lund Univ, Dept Comp Sci, Lund, Sweden.
+C3 RISE Research Institutes of Sweden; Lund University
+RP Borg, M (corresponding author), RISE Res Inst Sweden AB, Lund, Sweden.; Borg, M (corresponding author), Lund Univ, Dept Comp Sci, Lund, Sweden.
+EM markus.borg@ri.se
+RI Borg, Markus/F-3609-2010
+FU Plattformen at Campus Helsingborg, Lund University
+FX This work was funded by Plattformen at Campus Helsingborg, Lund
+   University.
+NR 37
+TC 10
+Z9 10
+U1 1
+U2 4
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1865-1348
+EI 1865-1356
+BN 978-3-030-65854-0; 978-3-030-65853-3
+J9 LECT NOTES BUS INF P
+PY 2021
+VL 404
+BP 66
+EP 77
+DI 10.1007/978-3-030-65854-0_6
+PG 12
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BU2DS
+UT WOS:000884348300006
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT C
+AU Felderer, M
+   Ramler, R
+AF Felderer, Michael
+   Ramler, Rudolf
+BE Winkler, D
+   Biffl, S
+   Mendez, D
+   Wimmer, M
+   Bergsmann, J
+TI Quality Assurance for AI-Based Systems: Overview and Challenges
+   (Introduction to Interactive Session)
+SO SOFTWARE QUALITY: FUTURE PERSPECTIVES ON SOFTWARE ENGINEERING QUALITY,
+   SWQD 2021
+SE Lecture Notes in Business Information Processing
+LA English
+DT Proceedings Paper
+CT 13th International Conference on Software Quality Days (SWQD)
+CY JAN 19-21, 2021
+CL Vienna, AUSTRIA
+SP Software Qual Lab GmbH, Vienna Univ Technol, Inst Informat Syst Engn, Blekinge Inst Technol, Johannes Kepler Univ Linz
+DE Artificial Intelligence; AI; AI-based systems; Machine learning;
+   Software quality; System quality; AI quality; Quality assurance
+AB The number and importance of AI-based systems in all domains is growing. With the pervasive use and the dependence on AI-based systems, the quality of these systems becomes essential for their practical usage. However, quality assurance for AI-based systems is an emerging area that has not been well explored and requires collaboration between the SE and AI research communities. This paper discusses terminology and challenges on quality assurance for AI-based systems to set a baseline for that purpose. Therefore, we define basic concepts and characterize AI-based systems along the three dimensions of artifact type, process, and quality characteristics. Furthermore, we elaborate on the key challenges of (1) understandability and interpretability of AI models, (2) lack of specifications and defined requirements, (3) need for validation data and test input generation, (4) defining expected outcomes as test oracles, (5) accuracy and correctness measures, (6) non-functional properties of AI-based systems, (7) self-adaptive and self-learning characteristics, and (8) dynamic and frequently changing environments.
+C1 [Felderer, Michael] Univ Innsbruck, Innsbruck, Austria.
+   [Ramler, Rudolf] Software Competence Ctr Hagenberg GmbH SCCH, Hagenberg, Austria.
+C3 University of Innsbruck; Softwarepark Hagenberg
+RP Felderer, M (corresponding author), Univ Innsbruck, Innsbruck, Austria.
+EM michael.felderer@uibk.ac.at; rudolf.ramler@scch.at
+RI Felderer, Michael/AAF-4909-2020
+FU Federal Ministry for Climate Action, Environment, Energy, Mobility,
+   Innovation and Technology (BMK); Federal Ministry for Digital and
+   Economic Affairs (BMDW); Province of Upper Austria in the frame of the
+   COMET -Competence Centers for Excellent Technologies Programme
+FX The research reported in this paper has been partly funded by the
+   Federal Ministry for Climate Action, Environment, Energy, Mobility,
+   Innovation and Technology (BMK), the Federal Ministry for Digital and
+   Economic Affairs (BMDW), and the Province of Upper Austria in the frame
+   of the COMET -Competence Centers for Excellent Technologies Programme
+   managed by Austrian Research Promotion Agency FFG.
+NR 30
+TC 30
+Z9 34
+U1 6
+U2 18
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1865-1348
+EI 1865-1356
+BN 978-3-030-65854-0; 978-3-030-65853-3
+J9 LECT NOTES BUS INF P
+PY 2021
+VL 404
+BP 33
+EP 42
+DI 10.1007/978-3-030-65854-0_3
+PG 10
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BU2DS
+UT WOS:000884348300003
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT C
+AU Lanus, E
+   Hernandez, I
+   Dachowicz, A
+   Freeman, LJ
+   Grande, M
+   Lang, A
+   Panchal, JH
+   Patrick, A
+   Welch, S
+AF Lanus, Erin
+   Hernandez, Ivan
+   Dachowicz, Adam
+   Freeman, Laura J.
+   Grande, Melanie
+   Lang, Andrew
+   Panchal, Jitesh H.
+   Patrick, Anthony
+   Welch, Scott
+GP IEEE
+TI Test and Evaluation Framework for Multi-Agent Systems of Autonomous
+   Intelligent Agents
+SO 2021 16TH INTERNATIONAL SYSTEM OF SYSTEMS ENGINEERING CONFERENCE (SOSE)
+LA English
+DT Proceedings Paper
+CT 16th International System of Systems Engineering Conference (SoSE)
+CY JUN 14-18, 2021
+CL ELECTR NETWORK
+DE systems engineering; statistical models; software engineering;
+   artificial intelligence; design of experiments; combinatorial
+   interaction testing
+AB Test and evaluation is a necessary process for ensuring that engineered systems perform as intended under a variety of conditions, both expected and unexpected. In this work, we consider the unique challenges of developing a unifying test and evaluation framework for complex ensembles of cyber-physical systems with embedded artificial intelligence. We propose a framework that incorporates test and evaluation throughout not only the development life cycle, but continues into operation as the system learns and adapts in a noisy, changing, and contended environment. The framework accounts for the challenges of testing the integration of diverse systems at various hierarchical scales of composition while respecting that testing time and resources are limited. A generic use case is provided for illustrative purposes. Research directions emerging as a result of exploring the use case via the framework are suggested.
+C1 [Lanus, Erin; Hernandez, Ivan; Freeman, Laura J.; Welch, Scott] Virginia Tech, Arlington, VA 22309 USA.
+   [Dachowicz, Adam; Grande, Melanie; Lang, Andrew; Panchal, Jitesh H.] Purdue Univ, W Lafayette, IN 47907 USA.
+   [Patrick, Anthony] George Mason Univ, Fairfax, VA 22030 USA.
+C3 Virginia Polytechnic Institute & State University; Purdue University
+   System; Purdue University; George Mason University
+RP Lanus, E (corresponding author), Virginia Tech, Arlington, VA 22309 USA.
+EM lanus@vt.edu; ivanhernandez@vt.edu; adachowi@purdue.edu;
+   laura.freeman@vt.edu; mgrande@purdue.edu; lang18@purdue.edu;
+   panchal@purdue.edu; scott2@vt.edu
+RI Lanus, Erin/AAT-2092-2020
+OI Hernandez, Ivan/0000-0002-3141-7525
+FU System Engineering Research Center
+FX This paper includes funded research conducted through the System
+   Engineering Research Center.
+NR 21
+TC 6
+Z9 8
+U1 2
+U2 7
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-6654-4454-5
+PY 2021
+BP 203
+EP 209
+DI 10.1109/SOSE52739.2021.9497472
+PG 7
+WC Computer Science, Theory & Methods; Engineering, Industrial;
+   Engineering, Electrical & Electronic; Operations Research & Management
+   Science
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering; Operations Research & Management Science
+GA BS3BK
+UT WOS:000709094100034
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT J
+AU Xie, XY
+   Zhang, ZY
+   Chen, TY
+   Liu, Y
+   Poon, PL
+   Xu, BW
+AF Xie, Xiaoyuan
+   Zhang, Zhiyi
+   Chen, Tsong Yueh
+   Liu, Yang
+   Poon, Pak-Lok
+   Xu, Baowen
+TI METTLE: A METamorphic Testing Approach to Assessing and Validating
+   Unsupervised Machine Learning Systems
+SO IEEE TRANSACTIONS ON RELIABILITY
+LA English
+DT Article
+DE Machine learning; Software; Task analysis; Solids; Benchmark testing;
+   Systematics; Clustering assessment; clustering validation; end-user
+   software engineering; metamorphic testing (MT); metamorphic relation
+   (MR); unsupervised machine learning
+ID CLUSTER-ANALYSIS
+AB Unsupervised machine learning is the training of an artificial intelligence system using information that is neither classified nor labeled, with a view to modeling the underlying structure or distribution in a dataset. Since unsupervised machine learning systems are widely used in many real-world applications, assessing the appropriateness of these systems and validating their implementations with respect to individual users' requirements and specific application scenarios/contexts are indisputably two important tasks. Such assessments and validation tasks, however, are fairly challenging due to the absence of a priori knowledge of the data. In view of this challenge, in this article, we develop a METamorphic Testing approach to assessing and validating unsupervised machine LEarning systems, abbreviated as mettle. Our approach provides a new way to unveil the (possibly latent) characteristics of various machine learning systems, by explicitly considering the specific expectations and requirements of these systems from individual users' perspectives. To support mettle, we have further formulated 11 generic metamorphic relations (MRs), covering users' generally expected characteristics that should be possessed by machine learning systems. We have performed an experiment and a user evaluation study to evaluate the viability and effectiveness of mettle. Our experiment and user evaluation study have shown that, guided by user-defined MR-based adequacy criteria, end users are able to assess, validate, and select appropriate clustering systems in accordance with their own specific needs. Our investigation has also yielded insightful understanding and interpretation of the behavior of the machine learning systems from an end-user software engineering's perspective, rather than a designer's or implementor's perspective, who normally adopts a theoretical approach.
+C1 [Xie, Xiaoyuan; Zhang, Zhiyi] Wuhan Univ, Sch Comp Sci, Wuhan 430072, Peoples R China.
+   [Chen, Tsong Yueh] Swinburne Univ Technol, Dept Comp Sci & Software Engn, Hawthorn, Vic 3122, Australia.
+   [Liu, Yang] Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore 639798, Singapore.
+   [Poon, Pak-Lok] Cent Queensland Univ, Sch Engn & Technol, Melbourne, Vic 3000, Australia.
+   [Xu, Baowen] Nanjing Univ, State Key Lab Novel Software Technol, Nanjing 210023, Peoples R China.
+C3 Wuhan University; Swinburne University of Technology; Nanyang
+   Technological University; Central Queensland University; Nanjing
+   University
+RP Xie, XY (corresponding author), Wuhan Univ, Sch Comp Sci, Wuhan 430072, Peoples R China.
+EM xxie@whu.edu.cn; zhiyi_whu@126.com; tychen@swin.edu.au;
+   yangliu@ntu.edu.sg; p.poon@cqu.edu.au; bwxu@nju.edu.cn
+RI Xu, Baowen/IXW-4882-2023; Poon, Pak-Lok/ADQ-5493-2022; Liu,
+   Yang/D-2306-2013; Zhang, Zhiyi/MAH-3012-2025
+OI Xu, Baowen/0000-0001-7743-1296; Liu, Yang/0000-0001-7300-9215; POON, Pak
+   Lok/0000-0003-2840-2418; Chen, Tsong/0000-0003-3578-0994
+FU National Key R&D Program of China [2018YFB1003901]; National Natural
+   Science Foundation of China [61572375, 61972289, 61832009, 61772263]
+FX This work was supported by the National Key R&D Program of China under
+   Grant 2018YFB1003901, and in part by the National Natural Science
+   Foundation of China under Grant 61572375, Grant 61972289, Grant
+   61832009, and Grant 61772263.
+NR 69
+TC 43
+Z9 48
+U1 1
+U2 23
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9529
+EI 1558-1721
+J9 IEEE T RELIAB
+JI IEEE Trans. Reliab.
+PD DEC
+PY 2020
+VL 69
+IS 4
+BP 1293
+EP 1322
+DI 10.1109/TR.2020.2972266
+PG 30
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+GA PA3GW
+UT WOS:000595526500008
+OA Green Submitted, hybrid
+DA 2025-11-07
+ER
+
+PT J
+AU Liaqat, A
+   Sindhu, MA
+   Siddiqui, GF
+AF Liaqat, Aisha
+   Sindhu, Muddassar Azam
+   Siddiqui, Ghazanfar Farooq
+TI Metamorphic Testing of an Artificially Intelligent Chess Game
+SO IEEE ACCESS
+LA English
+DT Article
+DE Games; Testing; Artificial intelligence; Engines; Software; Software
+   algorithms; Task analysis; Artificial intelligence; Chess engine; Chess
+   game; game testing; metamorphic testing; test oracle problem
+AB Artificially intelligent (AI) game software incorporates different algorithms to generate intelligent human-like responses to the users playing them. Testing AI game software poses great difficulty because of the complex possibilities that can result at a given point and analysis of said possibilities is a tedious task. Also during software development there are resource constraints due to which testing targets specific parts of the software. An AI game of Chess takes into consideration a large amount of possible outcomes at any given point before deciding a move. Therefore, testing it in its entirety is impractical. In this paper we propose a metamorphic testing approach for testing an AI Chess game i.e. a Chess engine's algorithm of determining and pruning out possible outcomes and ultimately deciding on a final outcome. For validating our approach, we have done error seeding on an open source Chess engine and tested it through our approach. The results for our proposed approach for testing an AI Chess game through metamorphic relations show that it is successful in revealing 71% of the total seeded faults. On comparison of our proposed approach with the existing technique of testing Chess engine i.e., perft function, we have come across situations in which our proposed approach reveals errors overlooked by the existing technique. In the future we aim to extend our approach towards other AI game software.
+C1 [Liaqat, Aisha; Sindhu, Muddassar Azam; Siddiqui, Ghazanfar Farooq] Quaid I Azam Univ, Dept Comp Sci, Islamabad 45320, Pakistan.
+C3 Quaid I Azam University
+RP Sindhu, MA (corresponding author), Quaid I Azam Univ, Dept Comp Sci, Islamabad 45320, Pakistan.
+EM masindhu@qau.edu.pk
+RI ; Sindhu, Muddassar/O-3216-2013
+OI Siddiqui, Ghazanfar Farooq/0000-0003-0291-3287; 
+NR 32
+TC 7
+Z9 7
+U1 0
+U2 16
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 174179
+EP 174190
+DI 10.1109/ACCESS.2020.3024929
+PG 12
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA NX7YD
+UT WOS:000575920800001
+OA gold
+DA 2025-11-07
+ER
+
+PT C
+AU Olszewska, JI
+AF Olszewska, J., I
+BE Aveiro, D
+   Dietz, J
+   Filipe, J
+TI AI-T: Software Testing Ontology for AI-based Systems
+SO PROCEEDINGS OF THE 12TH INTERNATIONAL JOINT CONFERENCE ON KNOWLEDGE
+   DISCOVERY, KNOWLEDGE ENGINEERING AND KNOWLEDGE MANAGEMENT (KEOD), VOL 2
+LA English
+DT Proceedings Paper
+CT 12th International Joint Conference on Knowledge Discovery, Knowledge
+   Engineering and Knowledge Management (IC3K) / 12th International
+   Conference on Knowledge Engineering and Ontology Development (KEOD)
+CY NOV 02-04, 2020
+CL Budapest, HUNGARY
+SP INSTICC
+DE Intelligent Systems; Software Testing; Software Engineering Ontology;
+   Ontological Domain Analysis and Modeling; Knowledge Engineering;
+   Knowledge Representation; Interoperability; Decision Support Systems;
+   Transparency; Accountability; Unbiased Machine Learning; Explainable
+   Artificial Intelligence (XAI)
+ID REQUIREMENTS; ROBOTICS
+AB Software testing is an expanding area which presents an increasing complexity. Indeed, on one hand, there is the development of technologies such as Software Testing as a Service (TaaS), and on the other hand, there is a growing number of Artificial Intelligence (AI)-based softwares. Hence, this work is about the development of an ontological framework for AI-softwares' Testing (AI-T), which domain covers both software testing and explainable artificial intelligence; the goal being to produce an ontology which guides the testing of AI softwares, in an effective and interoperable way. For this purpose, AI-T ontology includes temporal interval logic modelling of the software testing process as well as ethical principle formalization and has been built using the Enterprise Ontology (EO) methodology. Our resulting AI-T ontology proposes both conceptual and implementation models and contains 708 terms and 706 axioms.
+C1 [Olszewska, J., I] Univ West Scotland, Sch Comp & Engn, Paisley, Renfrew, Scotland.
+C3 University of West Scotland
+RP Olszewska, JI (corresponding author), Univ West Scotland, Sch Comp & Engn, Paisley, Renfrew, Scotland.
+NR 78
+TC 2
+Z9 3
+U1 3
+U2 13
+PU SCITEPRESS
+PI SETUBAL
+PA AV D MANUELL, 27A 2 ESQ, SETUBAL, 2910-595, PORTUGAL
+BN 978-989-758-474-9
+PY 2020
+BP 291
+EP 298
+DI 10.5220/0010147902910298
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BT1NT
+UT WOS:000799458900030
+OA gold
+DA 2025-11-07
+ER
+
+PT C
+AU Zhu, H
+   Bayley, I
+   Liu, DM
+   Zheng, XY
+AF Zhu, Hong
+   Bayley, Ian
+   Liu, Dongmei
+   Zheng, Xiaoyu
+GP IEEE
+TI Automation of Datamorphic Testing
+SO 2020 IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE TESTING
+   (AITEST)
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Artificial Intelligence Testing
+   (AITest)
+CY AUG 03-06, 2020
+CL Oxford, ENGLAND
+SP IEEE, IEEE Comp Soc
+DE Software test; Test automation; Artificial Intelligence; Test tools;
+   Datamorphic test
+AB This paper presents an automated tool called Morphy for datamorphic testing. It classifies software test artefacts into test entities and test morphisms, which are mappings on testing entities. In addition to datamorphisms, metamorphisms and seed test case makers, Morphy also employs a set of other test morphisms including test case metrics and filters, test set metrics and filters, test result analysers and test executers to realise test automation. In particular, basic testing activities can be automated by invoking test morphisms. Test strategies can be realised as complex combinations of test morphisms. Test processes can be automated by recording, editing and playing test scripts that invoke test morphisms and strategies. This paper proposes a set of test strategies that combine datamorphisms to generate test sets that adequately cover various types of mutant test cases. These strategies are formally defined. Their implementation algorithms are provided. The correctness of the algorithms are proved. The paper also illustrates their uses for testing both traditional software and AI applications with three case studies.
+C1 [Zhu, Hong; Bayley, Ian] Oxford Brookes Univ, Sch Engn Comp & Math, Oxford OX33 1HX, England.
+   [Liu, Dongmei; Zheng, Xiaoyu] Nanjing Univ Sci & Technol, Sch Comp Sci & Engn, Nanjing 210094, Peoples R China.
+C3 Oxford Brookes University; Nanjing University of Science & Technology
+RP Zhu, H (corresponding author), Oxford Brookes Univ, Sch Engn Comp & Math, Oxford OX33 1HX, England.
+EM hzhu@brookes.ac.uk; ibayley@brookes.ac.uk; dmliukz@njust.edu.cn;
+   zxy961120@sina.com
+RI Zhu, Hong/B-3231-2011; Zheng, Xiaoyu/GRO-7980-2022; Liu,
+   Dongmei/Q-9873-2017
+NR 31
+TC 6
+Z9 7
+U1 33
+U2 74
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+BN 978-1-7281-6984-2
+PY 2020
+BP 64
+EP 72
+DI 10.1109/AITEST49225.2020.00017
+PG 9
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BQ3BR
+UT WOS:000583824000010
+OA gold
+DA 2025-11-07
+ER
+
+PT C
+AU Augusto, C
+   Morán, J
+   de la Riva, C
+   Tuya, J
+AF Augusto, Cristian
+   Moran, Jesus
+   de la Riva, Claudio
+   Tuya, Javier
+GP IEEE
+TI Test-driven Anonymization for Artificial Intelligence
+SO 2019 IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE TESTING
+   (AITEST)
+LA English
+DT Proceedings Paper
+CT 1st IEEE International Conference on Artificial Intelligence Testing
+   (IEEE AITest)
+CY APR 04-09, 2019
+CL San Francisco, CA
+SP IEEE, IEEE Comp Soc, Exactpro, IBM, EduCoder NET
+DE Anonymization; Software Testing; Artificial Intelligence; k-Anonymity
+AB In recent years, data published and shared with third parties to develop artificial intelligence (AI) tools and services has significantly increased. When there are regulatory or internal requirements regarding privacy of data, anonymization techniques are used to maintain privacy by transforming the data. The side-effect is that the anonymization may lead to useless data to train and test the AI because it is highly dependent on the quality of the data. To overcome this problem, we propose a test-driven anonymization approach for artificial intelligence tools. The approach tests different anonymization efforts to achieve a trade-off in terms of privacy (non-functional quality) and functional suitability of the artificial intelligence technique (functional quality). The approach has been validated by means of two real-life datasets in the domains of healthcare and health insurance. Each of these datasets is anonymized with several privacy protections and then used to train classification AIs. The results show how we can anonymize the data to achieve an adequate functional suitability in the AI context while maintaining the privacy of the anonymized data as high as possible.
+C1 [Augusto, Cristian; Moran, Jesus; de la Riva, Claudio; Tuya, Javier] Univ Oviedo, Dept Comp, Gijon, Spain.
+C3 University of Oviedo
+RP Augusto, C (corresponding author), Univ Oviedo, Dept Comp, Gijon, Spain.
+EM augustocristian@uniovi.es; moranjesus@uniovi.es; claudio@uniovi.es;
+   tuya@uniovi.es
+RI de la Riva Alvarez, Claudio/L-5014-2014; Morán, Jesús/AAA-4871-2019;
+   Moran, Jesus/E-7615-2016; Tuya, Javier/L-6850-2014; Augusto,
+   Cristian/U-9487-2019
+OI Augusto, Cristian/0000-0001-6140-1375; Moran, Jesus/0000-0002-7544-3901;
+   Duque, Jorge/0000-0003-4939-6176; 
+FU Spanish Ministry of Economy and Competitiveness [TIN2016-76956-C3-1-R];
+   ERDF funds
+FX This work was supported in part by the Spanish Ministry of Economy and
+   Competitiveness under TestEAMoS (TIN2016-76956-C3-1-R) project and ERDF
+   funds.
+NR 21
+TC 2
+Z9 3
+U1 1
+U2 54
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-7281-0492-8
+PY 2019
+BP 103
+EP 110
+DI 10.1109/AITest.2019.00011
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BM9GY
+UT WOS:000470916100019
+OA Green Submitted
+DA 2025-11-07
+ER
+
+PT J
+AU Tao, CQ
+   Gao, J
+   Wang, TX
+AF Tao, Chuanqi
+   Gao, Jerry
+   Wang, Tiexin
+TI Testing and Quality Validation for AI Software-Perspectives, Issues, and
+   Practices
+SO IEEE ACCESS
+LA English
+DT Article
+DE AI software quality validation; AI testing; testing AI software
+ID RECOMMENDATION; SELECTION; CHECKING
+AB With the fast growth of artificial intelligence and big data computing technologies, more and more software service systems have been developed using diverse machine learning models and technologies to make business and intelligent decisions based on their multimedia input to achieve intelligent features, such as image recognition, recommendation, decision making, prediction, etc. Nevertheless, there are increasing quality problems resulting in erroneous testing costs in enterprises and businesses. Existing work seldom discusses how to perform testing and quality validation for AI software. This paper focuses on quality validation for AI software function features. The paper provides our understanding of AI software testing for new features and requirements. In addition, current AI software testing categories are presented and different testing approaches are discussed. Moreover, test quality assessment and criteria analysis are illustrated. Furthermore, a practical study on quality validation for an image recognition system is performed through a metamorphic testing method. Study results show the feasibility and effectiveness of the approach.
+C1 [Tao, Chuanqi; Wang, Tiexin] Nanjing Univ Aeronaut & Astronaut, Coll Comp Sci & Technol, Nanjing 210016, Jiangsu, Peoples R China.
+   [Tao, Chuanqi; Wang, Tiexin] Nanjing Univ Aeronaut & Astronaut, Minist Key Lab Safety Crit Software Dev & Verific, Nanjing 210016, Jiangsu, Peoples R China.
+   [Tao, Chuanqi] Nanjing Univ, State Key Lab Novel Software Technol, Nanjing 210093, Jiangsu, Peoples R China.
+   [Gao, Jerry] San Jose State Univ, Dept Comp Engn, San Jose, CA 95192 USA.
+C3 Nanjing University of Aeronautics & Astronautics; Nanjing University of
+   Aeronautics & Astronautics; Nanjing University; California State
+   University System; San Jose State University
+RP Tao, CQ (corresponding author), Nanjing Univ Aeronaut & Astronaut, Coll Comp Sci & Technol, Nanjing 210016, Jiangsu, Peoples R China.; Tao, CQ (corresponding author), Nanjing Univ Aeronaut & Astronaut, Minist Key Lab Safety Crit Software Dev & Verific, Nanjing 210016, Jiangsu, Peoples R China.; Tao, CQ (corresponding author), Nanjing Univ, State Key Lab Novel Software Technol, Nanjing 210093, Jiangsu, Peoples R China.
+EM taochuanqi@nuaa.edu.cn
+FU National Key Research and Development Program of China [2018YFB1003900];
+   National Natural Science Foundation of China [61402229, 61602267];
+   Collaborative Innovation Center of Novel Software Technology and
+   Industrialization; Fundamental Research Funds for the Central
+   Universities [NS2019058]; Open Fund of the State Key Laboratory for
+   Novel Software Technology [KFKT2018B19]
+FX This work was supported by the National Key Research and Development
+   Program of China under Grant 2018YFB1003900, in part by the National
+   Natural Science Foundation of China under Grant 61402229 and Grant
+   61602267, in part by the Collaborative Innovation Center of Novel
+   Software Technology and Industrialization, in part by the Fundamental
+   Research Funds for the Central Universities under Grant NS2019058, and
+   in part by the Open Fund of the State Key Laboratory for Novel Software
+   Technology under Grant KFKT2018B19.
+NR 48
+TC 24
+Z9 26
+U1 12
+U2 81
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2019
+VL 7
+BP 120164
+EP 120175
+DI 10.1109/ACCESS.2019.2937107
+PG 12
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA JP9GQ
+UT WOS:000498565800002
+OA gold
+DA 2025-11-07
+ER
+
+EF

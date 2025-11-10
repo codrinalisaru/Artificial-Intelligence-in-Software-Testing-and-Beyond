@@ -1,0 +1,5 @@
+T1: Minimum number of occurrences of a keyword: 2; out of 179 keywords; 25 meet the threshold; 
+T2: Minimum number of occurrences of a keyword: 1; out of 100 keywords; 78 connected items
+T3: Minimum number of occurrences of a keyword: 2; out of 185 keywords; 23 meet the threshold
+
+Overall: Minimum number of occurrences of a keyword: 2; out of 403 keywords; 67 meet the threshold
